@@ -6,7 +6,6 @@
 
             <div class="jumbotron">
                 <img class="img-fluid" src="{{ site.data.conference.logo_path }}">
-                <h5 class="text-center mt-0">{{ site.data.conference.date }}</h5>
                 <p class="text-center mt-4 mb-4">{{ site.data.conference.full_title }}</p>
                 <p class="text-center mb-0">{{ site.data.conference.location }}</p>
             </div>
@@ -15,29 +14,10 @@
 
         <!--slide show-->
         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-7 col-xl-6">
+
+            <img src="./assets/images/slideshow/lyon1.jpg">
                 
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
-
-                        <div class="carousel-inner" role="listbox">
-                            
-                            {% for slide in site.data.conference.slideshow %}
-                            {% if page.slide_id and page.slide_id  == slide.id %}
-                            <div class="carousel-item active">
-                            {% else %}
-                            <div class="carousel-item">
-                            {% endif %}
-                                <!--<img class="img-fluid" src="{{ site.baseurl }}{{ slide.image_path }}" alt="{{ slide.description }}">-->
-                                <img class="img-fluid" src="{{ slide.image_path }}" alt="{{ slide.description }}">
-                                <div class="carousel-caption d-none d-md-block text-muted">
-                                    <p class="align-bottom"> {{ slide.description }}, by <a href="{{ slide.photographer_link }}">{{slide.photographer_name}}</a>, 
-                                        under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons license</a>.
-                                    </p>
-                                </div>
-                            </div>
-                            {% endfor %}
-
-                        </div>
-                </div>
+                
         </div>
     </div>
 

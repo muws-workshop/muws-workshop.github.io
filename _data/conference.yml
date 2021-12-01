@@ -49,13 +49,15 @@ deadlines:
     text: Workshop day
     pass_due: False
 news:
-  - date: 2022-12-03
-    text: Submission site online
+  - date: 2022-12-01
+    text: Twitter account online - https://twitter.com/MuwsWorkshop
+  - date: 2022-12-01
+    text: Submission site online - https://easychair.org/conferences/?conf=muws2022
   - date: 2021-12-01
     text: Website online
 social_media:
   facebook_link: 
-  twitter_link: https://twitter.com/sherzodhakimov
+  twitter_link: https://twitter.com/MuwsWorkshop
 program_chair:
   - name: Sherzod Hakimov
     org: TIB - Leibniz Information Centre for Science and Technology, Hannover, Germany
@@ -73,10 +75,5 @@ program_chair:
     org: Center for Vision Technologies, SRI International in Princeton, USA
     homepage: https://ksikka.com
 program_committee:
-  - name: Sherzod Hakimov
-    org: TIB - Leibniz Information Centre for Science and Technology, Hannover, Germany
-    homepage: https://sherzod-hakimov.github.io/
-  - name: Gullal S. Cheema
-    org: TIB - Leibniz Information Centre for Science and Technology, Hannover, Germany
-    homepage: https://gullalc.github.io/
+  
 

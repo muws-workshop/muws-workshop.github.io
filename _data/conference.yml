@@ -8,36 +8,16 @@ date: April 25-29, 2022
 logo_path: ./assets/images/logo_2022.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/image0.jpg
-    description: San Jose night scene
-    photographer_name: Mike Boening
-    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    image_path: ./assets/images/slideshow/lyon1.jpg
+    description: Lyon, France
+    photographer_name: Pedro Szekely
+    photographer_link: https://www.flickr.com/people/43355249@N00
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/image1.jpg
-    description: San Jose Museum of Art
-    photographer_name: Bryan Nabong
-    photographer_link: https://www.flickr.com/photos/bongarang/
-  - id: 2
-    image_path: ./assets/images/slideshow/image2.jpg
-    description: San Jose State University
-    photographer_name: David Sawyer
-    photographer_link: https://www.flickr.com/photos/18702768@N04/
-  - id: 3
-    image_path: ./assets/images/slideshow/image3.jpg
-    description: Cathedral Basilica of St. Joseph
-    photographer_name: Patricia Montes Gregory
-    photographer_link: https://www.flickr.com/photos/32159045@N02/
-  - id: 4
-    image_path: ./assets/images/slideshow/image4.jpg
-    description: Winchester Mystery House
-    photographer_name: Pomax
-    photographer_link: https://www.flickr.com/photos/pomax/
-  - id: 5
-    image_path: ./assets/images/slideshow/image5.jpg
-    description: Rose Garden Branch Library
-    photographer_name: John Menard
-    photographer_link: https://www.flickr.com/photos/jmenard48/
+    image_path: ./assets/images/slideshow/lyon2.jpg
+    description: Lyon, France
+    photographer_name: Baptiste Lheurette
+    photographer_link: https://pixabay.com/users/baptiste_lheurette-15407445/
 navbar:
   - id: 0
     label: Home
@@ -57,7 +37,7 @@ navbar:
     visible: True
 deadlines:
   - date: 2022-02-03
-    timezone: Anywhere on Earth
+    timezone: AoE
     text: Submission deadline
     pass_due: False
   - date: 2022-03-03

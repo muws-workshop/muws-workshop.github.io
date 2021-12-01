@@ -55,10 +55,6 @@ navbar:
     label: Organization
     path: /organization.html
     visible: True
-  - id: 4
-    label: Programs
-    path: /program.html
-    visible: False
 deadlines:
   - date: 2022-02-03
     timezone: Anywhere on Earth

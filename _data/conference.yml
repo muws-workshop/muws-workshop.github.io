@@ -1,11 +1,11 @@
 full_title: The 1st International Workshop on Multimodal Understanding for the Web and Social Media
-short_title: MUWS Workshop 2022
+short_title: MUWS 2022
 email: muws-2022@easychair.org
 description: > # this means to ignore newlines until "baseurl:"
   MUWS Workshop is a forum  bringing together researchers and practitioners from the fields of Information Retrieval, Natural Language Processing, Computer Vision, Human Computation, and Semiotics to discuss and evaluate methods and solutions for effective and efficient analytics of multimodal information present in the Web or social media
 location: Lyon, France, 2022
 date: April 25-29, 2022
-logo_path: ./assets/images/logo2020.png
+logo_path: ./assets/images/logo_2022.png
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
@@ -44,16 +44,16 @@ navbar:
     path: /
     visible: True
   - id: 1
-    label: Organization
-    path: /organization.html
-    visible: True
-  - id: 2
     label: Call for Papers
     path: /cfp.html
     visible: True
-  - id: 3
+  - id: 2
     label: Submission
     path: /submission.html
+    visible: True
+  - id: 3
+    label: Organization
+    path: /organization.html
     visible: True
   - id: 4
     label: Programs
@@ -78,11 +78,6 @@ news:
     text: Submission site online
   - date: 2021-12-01
     text: Website online
-sponsors:
-  - name: ACM
-    logo_path: ./assets/images/sponsors/acm-logo.png
-  - name: IEEE
-    logo_path: ./assets/images/sponsors/ieee-logo.gif
 social_media:
   facebook_link: 
   twitter_link: https://twitter.com/sherzodhakimov

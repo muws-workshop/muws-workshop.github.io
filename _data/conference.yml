@@ -1,6 +1,6 @@
 full_title: The 1st International Workshop on Multimodal Understanding for the Web and Social Media
 short_title: MUWS Workshop 2022
-email: muws-workshop@easychair.org
+email: muws-2022@easychair.org
 description: > # this means to ignore newlines until "baseurl:"
   MUWS Workshop is a forum  bringing together researchers and practitioners from the fields of Information Retrieval, Natural Language Processing, Computer Vision, Human Computation, and Semiotics to discuss and evaluate methods and solutions for effective and efficient analytics of multimodal information present in the Web or social media
 location: Lyon, France, 2022
@@ -58,18 +58,10 @@ navbar:
   - id: 4
     label: Programs
     path: /program.html
-    visible: True
-  - id: 5
-    label: Venue
-    path: /venue.html
-    visible: True
-  - id: 6
-    label: Registration
-    path: /registration.html
-    visible: True
+    visible: False
 deadlines:
   - date: 2022-02-03
-    timezone: 12PM PDT
+    timezone: Anywhere on Earth
     text: Submission deadline
     pass_due: False
   - date: 2022-03-03
@@ -92,8 +84,8 @@ sponsors:
   - name: IEEE
     logo_path: ./assets/images/sponsors/ieee-logo.gif
 social_media:
-  facebook_link: https://www.facebook.com/hotwebseries/
-  twitter_link: 
+  facebook_link: 
+  twitter_link: https://twitter.com/sherzodhakimov
 program_chair:
   - name: Sherzod Hakimov
     org: TIB - Leibniz Information Centre for Science and Technology, Hannover, Germany
@@ -101,9 +93,6 @@ program_chair:
   - name: Gullal S. Cheema
     org: TIB - Leibniz Information Centre for Science and Technology, Hannover, Germany
     homepage: https://gullalc.github.io/
-  - name: Mark A. Kastner
-    org: National Institute of Informatics (NII), Tokyo, Japan
-    homepage: https://www.marc-kastner.com
   - name: Mark A. Kastner
     org: National Institute of Informatics (NII), Tokyo, Japan
     homepage: https://www.marc-kastner.com

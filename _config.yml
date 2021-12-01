@@ -25,6 +25,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-timezone: America/New_York
-google_analytics: UA-99357652-1
+timezone: Germany/Berlin
+google_analytics: 
 

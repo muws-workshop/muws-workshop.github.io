@@ -50,9 +50,9 @@ deadlines:
     pass_due: False
 news:
   - date: 2022-12-01
-    text: Twitter account online - https://twitter.com/MuwsWorkshop
+    text: Twitter account online
   - date: 2022-12-01
-    text: Submission site online - https://easychair.org/conferences/?conf=muws2022
+    text: Submission site online
   - date: 2021-12-01
     text: Website online
 social_media:

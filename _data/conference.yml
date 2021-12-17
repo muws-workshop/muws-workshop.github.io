@@ -5,7 +5,7 @@ description:
 location: Online (organized by Lyon, France)
 colocated: Co-located with The WebConf 2022
 date: April 25, 2022
-logo_path: ./assets/images/logo_2022.png
+logo_path: ./assets/images/logo-2.png
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/lyon1.jpg

@@ -76,5 +76,24 @@ program_chair:
     org: Center for Vision Technologies, SRI International in Princeton, USA
     homepage: https://ksikka.com
 program_committee:
-  
+  - name: Tuomo Hiippala
+    org: University of Helsinki, Finland
+  - name: Janine Wildfeuer
+    org: University of Groningen, Netherlands
+  - name: Arka Ujjal Dey
+    org: Indian Institute of Technology Jodhpur, India
+  - name: Suman Ghosh
+    org: Universitat Autonoma de Barcelona, Spain
+  - name: Sandro Pezzelle
+    org: University of Amsterdam, Netherlands
+  - name: Alakananda Vempala
+    org: Bloomberg L.P., USA
+  - name: Christian Otto
+    org: TIB - Leibniz Information Centre for Science and Technology, Hannover, Germany
+  - name: Eric Muller-Budack
+    org: TIB - Leibniz Information Centre for Science and Technology, Hannover, Germany
+  - name: Letitia Parcalabescu
+    org: Heidelberg University, Germany
+  - name: Nils Murrugarra-Llerena
+    org: Snapchat Inc., USA
 

@@ -78,12 +78,12 @@ program_chair:
 program_committee:
   - name: Tuomo Hiippala
     org: University of Helsinki, Finland
-  - name: Janine Wildfeuer
+  - name: Janina Wildfeuer
     org: University of Groningen, Netherlands
   - name: Arka Ujjal Dey
     org: Indian Institute of Technology Jodhpur, India
   - name: Suman Ghosh
-    org: Universitat Autonoma de Barcelona, Spain
+    org: UK Atomic Energy Authority (UKAEA), United Kingdom
   - name: Sandro Pezzelle
     org: University of Amsterdam, Netherlands
   - name: Alakananda Vempala
@@ -96,4 +96,8 @@ program_committee:
     org: Heidelberg University, Germany
   - name: Nils Murrugarra-Llerena
     org: Snapchat Inc., USA
+  - name: Niluthpol Mithun
+    org: SRI International, USA
+  - name: Ricardo Marcacini
+    org: University of Sao Paulo, Brazil
 

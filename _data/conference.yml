@@ -4,7 +4,7 @@ email: muws2022 (-at-) easychair.org
 description: 
 location: co-located with The WebConf
 colocated: Co-located with The WebConf 2022
-date: April 25, 2022
+date: April 26, 2022
 logo_path: ./assets/images/logo-2-rb.png
 slideshow:
   - id: 0
@@ -36,17 +36,17 @@ navbar:
     path: /organization.html
     visible: True
 deadlines:
-  - date: 2022-02-07
+  - date: 2022-02-13
     timezone: AoE
     text: Submission deadline
     pass_due: False
-  - date: 2022-03-03
+  - date: 2022-03-11
     text: Notification of acceptance
     pass_due: False
-  - date: 2022-03-10
+  - date: 2022-03-18
     text: Camera-ready copy due
     pass_due: False
-  - date: 2022-04-25
+  - date: 2022-04-26
     text: Workshop day
     pass_due: False
 news:

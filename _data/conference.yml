@@ -50,6 +50,10 @@ deadlines:
     text: Workshop day
     pass_due: False
 news:
+  - date: 2022-03-03
+    text: Notifications are sent
+  - date: 2022-02-13
+    text: Submission deadline has passed 
   - date: 2021-12-01
     text: Twitter account online
   - date: 2021-12-01

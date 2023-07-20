@@ -12,7 +12,7 @@ Each submission will be reviewed by at least 3 members of the PC. The program co
 
 Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop. At least one author of each accepted paper is expected to attend the workshop.
 
-Accepted papers will be given the option to be published as part of a CEUR Workshop Proceedings (CEUR-WS.org). 
+Accepted papers will be given the option to be published as part of a [CEUR Workshop Proceedings](https://ceur-ws.org). 
 
 ## Submission Page
 

@@ -1,0 +1,11 @@
+platinumsponsor:
+  other: "Platinum sponsor"
+
+goldsponsor:
+  other: "Gold sponsor"
+
+silversponsor:
+  other: "Silver sponsor"
+
+notavail:
+  other: "TBD"

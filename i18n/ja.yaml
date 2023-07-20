@@ -1,0 +1,11 @@
+platinumsponsor:
+  other: "プラチナスポンサー"
+
+goldsponsor:
+  other: "ゴールドスポンサー"
+
+silversponsor:
+  other: "シルバースポンサー"
+
+notavail:
+  other: "未定"

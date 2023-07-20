@@ -1,0 +1,46 @@
+languageCode = 'en-US'
+baseURL = 'https://muws-workshop.github.io/'
+title = 'MUWS 2023'
+theme = "main"
+defaultContentLanguage = 'en'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+    name = "Home"
+    weight = 1
+    identifier = "/"
+    url = "/"
+
+[[menu.main]]
+    name = "Program"
+    weight = 2
+    identifier = "/program/"
+    url = "/program/"
+
+[[menu.main]]
+    name = "Call for Papers"
+    weight = 3
+    identifier = "/cfp/"
+    url = "/cfp/"
+
+[[menu.main]]
+    name = "Submission"
+    weight = 4
+    identifier = "/submission/"
+    url = "/submission/"
+
+[[menu.main]]
+    name = "Organization"
+    weight = 5
+    identifier = "/organization/"
+    url = "/organization/"
+
+[[menu.main]]
+    name = "Previous editions"
+    weight = 5
+    identifier = "/previous/"
+    url = "/previous/"

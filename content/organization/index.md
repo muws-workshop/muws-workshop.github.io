@@ -52,11 +52,9 @@ title: "Organization"
 - Eric Müller-Budack, TIB -- Leibniz Information Centre for Science and Technology, Germany
 - Christian Otto, L3S Research Center, Germany
 - Sina Zarrieß, Bielefeld University, Germany
-- Malihe Alikhani, University of Pittsburgh, USA
 - Tuomo Hiippala, University of Helsinki, Finland
 - Chihaya Matsuhira, Nagoya University, Japan
-- Nils Murrugarra-Llerena, Snap Inc, USA
-- Letitia Parcalabescu, University of Heidelberg, Germany
+- Nils Murrugarra-Llerena, Weber State University, USA
 - Arka Ujjal Dey, Computer Vision Center, Spain
 - Ricardo Marcacini, University of Sao Paulo, Brazil
 - Sandro Pezzelle, University of Amsterdam, Netherlands

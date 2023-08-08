@@ -51,7 +51,7 @@ title: "Organization"
 
 - Eric Müller-Budack, TIB -- Leibniz Information Centre for Science and Technology, Germany
 - Christian Otto, L3S Research Center, Germany
-- Sina Zarrieß, Bielefeld University, Germany
+- Özge Alaçam, Bielefeld University, Germany
 - Tuomo Hiippala, University of Helsinki, Finland
 - Chihaya Matsuhira, Nagoya University, Japan
 - Nils Murrugarra-Llerena, Weber State University, USA

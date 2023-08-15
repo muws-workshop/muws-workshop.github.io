@@ -57,10 +57,13 @@ title: "Organization"
 - Nils Murrugarra-Llerena, Weber State University, USA
 - Arka Ujjal Dey, Computer Vision Center, Spain
 - Ricardo Marcacini, University of Sao Paulo, Brazil
-- Sandro Pezzelle, University of Amsterdam, Netherlands
+- Janina Wildfeuer, University of Groningen, Netherlands
 - Raffaella Bernardi, University of Trento, Italy
+- Antonio Tejero-de-Pablos, Cyber Agent Inc., Japan
 - Philipp Sadler, University of Potsdam, Germany
 - Nikolai Ilinykh, University of Gothenburg, Sweden
+- Yankun Wu, Osaka University, Japan
+
 
 
 If you have any problems or questions, please contact us via e-mail at: [muws23@easychair.org](mailto:muws23@easychair.org)

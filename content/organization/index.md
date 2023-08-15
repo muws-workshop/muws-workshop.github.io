@@ -63,6 +63,7 @@ title: "Organization"
 - Philipp Sadler, University of Potsdam, Germany
 - Nikolai Ilinykh, University of Gothenburg, Sweden
 - Yankun Wu, Osaka University, Japan
+- Sandro Pezzelle, University of Amsterdam, Netherlands
 
 
 

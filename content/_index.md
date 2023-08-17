@@ -6,7 +6,7 @@ The 2nd International Workshop on Multimodal Human Understanding for the Web and
 
 ## Schedule
 
-- Submission deadline: August 18th, 2023
+- Submission deadline: August 31st, 2023
 - Paper notification: September 15th, 2023
 - Workshop date: October 22nd, 2023
 

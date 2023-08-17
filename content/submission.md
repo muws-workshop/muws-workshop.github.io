@@ -6,7 +6,7 @@ title: "Submission"
 
 We welcome contributions with **8-15 pages** that address the [topics of interest](https://muws-workshop.github.io/cfp/).
 
-Papers should follow the [Springer LNCS proceedings style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). All submissions must be written in English and must be formatted according to the proceedings style.
+Papers should follow the CEUR Proceedings style, [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). All submissions must be written in English and must be formatted according to the proceedings style.
 
 Each submission will be reviewed by at least 3 members of the PC. The program committee consists of well-recognized experts (from both academia and industry) in the areas of Semantic Web, the Web, NLP/text processing, knowledge management, visual analytics and Digital Humanities.
 
@@ -20,7 +20,7 @@ Accepted papers will be given the option to be published as part of a [CEUR Work
 
 ## Important datess
 
-- Submission deadline: August 18th, 2023
+- Submission deadline: August 31st, 2023
 - Paper notification: September 15th, 2023
 - Workshop date: October 22nd, 2023
 

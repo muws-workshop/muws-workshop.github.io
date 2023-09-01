@@ -19,7 +19,7 @@ The theme of the MUWS workshop, multimodal human understanding, includes various
 
 ## Important dates
 
-- Submission deadline: August 31st, 2023
+- Submission deadline: September 15th, 2023
 - Paper notification: September 15th, 2023
 - Workshop date: October 22nd, 2023
 

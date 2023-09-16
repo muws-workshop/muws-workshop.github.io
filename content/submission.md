@@ -6,7 +6,7 @@ title: "Submission"
 
 We welcome contributions with **8-15 pages** that address the [topics of interest](https://muws-workshop.github.io/cfp/).
 
-Papers should follow the CEUR Proceedings style, [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). All submissions must be written in English and must be formatted according to the proceedings style.
+Papers should follow the CEUR Proceedings style, [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). All submissions must be written in English, must be formatted according to the proceedings style, and should adhere to double-blind review requirements.
 
 Each submission will be reviewed by at least 3 members of the PC. The program committee consists of well-recognized experts (from both academia and industry) in the areas of Semantic Web, the Web, NLP/text processing, knowledge management, visual analytics and Digital Humanities.
 

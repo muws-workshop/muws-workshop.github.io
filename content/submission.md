@@ -20,8 +20,8 @@ Accepted papers will be given the option to be published as part of a [CEUR Work
 
 ## Important datess
 
-- Submission deadline: August 31st, 2023
-- Paper notification: September 15th, 2023
+- Submission deadline: September 15th, 2023
+- Paper notification: October 4th, 2023
 - Workshop date: October 22nd, 2023
 
 ## Contact

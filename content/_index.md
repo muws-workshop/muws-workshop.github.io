@@ -4,14 +4,29 @@ title: "MUWS 2023 - The 2nd International Workshop on Multimodal Human Understan
 
 The 2nd International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with [32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)](https://uobevents.eventsair.com/cikm2023/).
 
+# Workshop Program
+
+**Date**: October 22nd, 2023
+
+**Time**: 09: 00-12: 30 (UK time zone)
+
+**Room**: [Alan Walters – G11, University of Birmingham](https://maps.app.goo.gl/LZGRhhAvxTTPfssn9) (also online via Zoom)
+
 ## Schedule
 
-- Submission deadline: September 15th, 2023
-- Paper notification: October 4th, 2023
-- Workshop date: October 22nd, 2023
+- 09: 00 - 09: 05 - Welcome session
+- 09: 05 - 10: 00 - Keynote talk by [Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/) with the title "A Semiotic Perspective to Computational Modelling of Multimodal Discourse".
 
-## Workshop Overview
+Tuomo Hiippala is an Associate Professor in English Language and Digital Humanities at the University of Helsinki. His current research interests include the multimodality of diagrammatic representations and the development of computational methods for empirical multimodality research. His main publications include "Multimodality: Foundations, Research and Analysis" (with John A. Bateman and Janina Wildfeuer, De Gruyter, 2017) and "The Structure of Multimodal Documents" (Routledge, 2015).
 
-Multimodal human understanding and analysis is an emerging research area that cuts through several disciplines like Computer Vision, Natural Language Processing (NLP), Speech Processing, Human-Computer Interaction, and Multimedia. Several multimodal learning techniques have recently shown the benefit of combining multiple modalities in image-text, audio-visual and video representation learning and various downstream multimodal tasks. At the core, these methods focus on modelling the modalities and their complex interactions by using large amounts of data, different loss functions and deep neural network architectures. However, for many Web and Social media applications, there is the need to model the human, including the understanding of human behaviour and perception. For this, it becomes important to consider interdisciplinary approaches, including social sciences, semiotics and psychology. The core is understanding various cross-modal relations, quantifying bias such as social biases, and the applicability of models to real-world problems. Interdisciplinary theories such as semiotics or gestalt psychology can provide additional insights and analysis on perceptual understanding through signs and symbols via multiple modalities. In general, these theories provide a compelling view of multimodality and perception that can further expand computational research and multimedia applications on the Web and Social media. 
 
-The theme of the MUWS workshop, multimodal human understanding, includes various interdisciplinary challenges related to social bias analyses, multimodal representation learning, detection of human impressions or sentiment, hate speech, sarcasm in multimodal data, multimodal rhetoric and semantics, and related topics. The MUWS workshop will be an interactive event and include keynotes by relevant experts, poster and demo sessions, research presentations and discussion.
+- 10: 00 - 10:20 -  Adwita Arora et al. "Exploring the Indian Political YouTube Landscape: A Multimodal Multi-Task Approach"
+- 10: 20 - 10:40 - Bohua Peng et al. "FLYPE: Multitask Prompt Tuning for Multimodal Human Understanding of Social Media"
+- 10: 40 - 11:00 - Break
+- 11: 00 - 11: 40 - Invited talk by [Dorothy Zhao](https://dorazhao99.github.io/) with the title "Multimodal Systems through a Social Lens: Uncovering and Mitigating Biases".
+
+Dorothy Zhao is an AI Engineer at Sony AI on the AI Ethics team. Her research focuses on uncovering, evaluating, and mitigating social biases in AI systems, primarily considering the computer vision and image-text domains. She also is interested in improving dataset creation practices, which spans from collecting novel datasets to understanding challenges that practitioners face in this field. Before starting at Sony, she received her BA and MS from Princeton University in computer science. 
+
+- 11: 40 - 12:20 - M. Jaleed Khan et al. "Towards Fairness in Multimodal Scene Graph Generation: Mitigating Biases in Datasets, Knowledge Sources and Models"
+- 12: 00 - 12:20 - Amit Kumar Jaiswal et al. "Towards Subject Agnostic Affective Emotion Recognition"
+- 12: 20 - 12: 30 - Closing session

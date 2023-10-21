@@ -22,12 +22,6 @@ defaultContentLanguage = 'en'
     url = "/program/"
 
 [[menu.main]]
-    name = "Proceedings"
-    weight = 4
-    identifier = "/proceeding/"
-    url = "/proceeding/"
-
-[[menu.main]]
     name = "Call for Papers"
     weight = 3
     identifier = "/cfp/"

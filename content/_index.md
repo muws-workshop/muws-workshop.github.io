@@ -27,6 +27,6 @@ Tuomo Hiippala is Associate Professor in English Language and Digital Humanities
 
 Dorothy Zhao is an AI Engineer at Sony AI on the AI Ethics team. Her research focuses on uncovering, evaluating, and mitigating social biases in AI systems, primarily considering the computer vision and image-text domains. She also is interested in improving dataset creation practices, which spans from collecting novel datasets to understanding challenges that practitioners face in this field. Before starting at Sony, she received her BA and MS from Princeton University in computer science. 
 
-- 11: 40 - 12:20 - M. Jaleed Khan et al. ["Towards Fairness in Multimodal Scene Graph Generation: Mitigating Biases in Datasets, Knowledge Sources and Models"](https://github.com/muws-workshop/muws-workshop.github.io/blob/main/content/paper3.pdf)
+- 11: 40 - 12:00 - M. Jaleed Khan et al. ["Towards Fairness in Multimodal Scene Graph Generation: Mitigating Biases in Datasets, Knowledge Sources and Models"](https://github.com/muws-workshop/muws-workshop.github.io/blob/main/content/paper3.pdf)
 - 12: 00 - 12:20 - Amit Kumar Jaiswal et al. ["Towards Subject Agnostic Affective Emotion Recognition"](https://github.com/muws-workshop/muws-workshop.github.io/blob/main/content/paper4.pdf)
 - 12: 20 - 12: 30 - Closing session

@@ -1,6 +1,6 @@
 languageCode = 'en-US'
 baseURL = 'https://muws-workshop.github.io/'
-title = 'MUWS 2023'
+title = 'MUWS 2024'
 theme = "main"
 defaultContentLanguage = 'en'
 

@@ -19,14 +19,14 @@ The theme of the MUWS workshop, multimodal human understanding, includes various
 
 ## Important dates
 
-- Submission deadline: September 15th, 2023
-- Paper notification: October 4th, 2023
-- Workshop date: October 22nd, 2023
+- Submission deadline: 
+- Paper notification: 
+- Workshop date: 
 
 ## Submission Page
 
-- Submission Page: [https://easychair.org/conferences/?conf=muws23](https://easychair.org/conferences/?conf=muws23)
+- Submission Page: TBD
 
 ## Contact
 
-If you have any problems or questions, please contact us via e-mail at: [muws23@easychair.org](mailto:muws23@easychair.org)
+If you have any problems or questions, please contact us via e-mail at: TBD

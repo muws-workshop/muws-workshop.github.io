@@ -1,32 +1,17 @@
 ---
-title: "MUWS 2023 - The 2nd International Workshop on Multimodal Human Understanding for the Web and Social Media"
+title: "MUWS 2024 - The 2nd International Workshop on Multimodal Human Understanding for the Web and Social Media"
 ---
 
-The 2nd International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with [32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)](https://uobevents.eventsair.com/cikm2023/).
-
-# Workshop Program
-
-**Date**: October 22nd, 2023
-
-**Time**: 09: 00-12: 30 (UK time zone)
-
-**Room**: [Alan Walters – G11, University of Birmingham](https://maps.app.goo.gl/LZGRhhAvxTTPfssn9) (also online via Zoom)
+The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with TBD.
 
 ## Schedule
 
-- 09: 00 - 09: 05 - Welcome session
-- 09: 05 - 10: 00 - Keynote talk by [Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/) with the title ["A Semiotic Perspective to Computational Modelling of Multimodal Discourse"](https://github.com/muws-workshop/muws-workshop.github.io/blob/main/content/keynote.pdf).
+- Submission deadline: 
+- Paper notification: 
+- Workshop date: 
 
-Tuomo Hiippala is Associate Professor in English Language and Digital Humanities in the Department of Languages at the University of Helsinki, Finland (2018-). He holds a PhD in English Philology from the University of Helsinki (2014) and a Title of Docent in Multimodality Research and Digital Methods from the University of Turku (2022). His current research interests include the multimodality of diagrams and information graphics, and the development of computational methods for building and analysing multimodal corpora. He currently directs two research projects that explore the use of crowdsourcing as a method for creating multimodal corpora and the role of crowdsourcing as a form of academic infrastructure.
+## Workshop Overview
 
+Multimodal human understanding and analysis is an emerging research area that cuts through several disciplines like Computer Vision, Natural Language Processing (NLP), Speech Processing, Human-Computer Interaction, and Multimedia. Several multimodal learning techniques have recently shown the benefit of combining multiple modalities in image-text, audio-visual and video representation learning and various downstream multimodal tasks. At the core, these methods focus on modelling the modalities and their complex interactions by using large amounts of data, different loss functions and deep neural network architectures. However, for many Web and Social media applications, there is the need to model the human, including the understanding of human behaviour and perception. For this, it becomes important to consider interdisciplinary approaches, including social sciences, semiotics and psychology. The core is understanding various cross-modal relations, quantifying bias such as social biases, and the applicability of models to real-world problems. Interdisciplinary theories such as semiotics or gestalt psychology can provide additional insights and analysis on perceptual understanding through signs and symbols via multiple modalities. In general, these theories provide a compelling view of multimodality and perception that can further expand computational research and multimedia applications on the Web and Social media. 
 
-- 10: 00 - 10:20 -  Adwita Arora et al. ["Exploring the Indian Political YouTube Landscape: A Multimodal Multi-Task Approach"](https://github.com/muws-workshop/muws-workshop.github.io/blob/main/content/paper1.pdf)
-- 10: 20 - 10:40 - Bohua Peng et al. ["FLYPE: Multitask Prompt Tuning for Multimodal Human Understanding of Social Media"](https://github.com/muws-workshop/muws-workshop.github.io/blob/main/content/paper2.pdf)
-- 10: 40 - 11:00 - Break
-- 11: 00 - 11: 40 - Invited talk by [Dorothy Zhao](https://dorazhao99.github.io/) with the title ["Multimodal Systems through a Social Lens: Uncovering and Mitigating Biases"](https://github.com/muws-workshop/muws-workshop.github.io/blob/main/content/invited-talk.pdf).
-
-Dorothy Zhao is an AI Engineer at Sony AI on the AI Ethics team. Her research focuses on uncovering, evaluating, and mitigating social biases in AI systems, primarily considering the computer vision and image-text domains. She also is interested in improving dataset creation practices, which spans from collecting novel datasets to understanding challenges that practitioners face in this field. Before starting at Sony, she received her BA and MS from Princeton University in computer science. 
-
-- 11: 40 - 12:00 - M. Jaleed Khan et al. ["Towards Fairness in Multimodal Scene Graph Generation: Mitigating Biases in Datasets, Knowledge Sources and Models"](https://github.com/muws-workshop/muws-workshop.github.io/blob/main/content/paper3.pdf)
-- 12: 00 - 12:20 - Amit Kumar Jaiswal et al. ["Towards Subject Agnostic Affective Emotion Recognition"](https://github.com/muws-workshop/muws-workshop.github.io/blob/main/content/paper4.pdf)
-- 12: 20 - 12: 30 - Closing session
+The theme of the MUWS workshop, multimodal human understanding, includes various interdisciplinary challenges related to social bias analyses, multimodal representation learning, detection of human impressions or sentiment, hate speech, sarcasm in multimodal data, multimodal rhetoric and semantics, and related topics. The MUWS workshop will be an interactive event and include keynotes by relevant experts, poster and demo sessions, research presentations and discussion.

@@ -4,7 +4,7 @@ title: "Submission"
 
 ## Submission Instructions
 
-We welcome contributions with **8-15 pages** that address the [topics of interest](https://muws-workshop.github.io/cfp/).
+We welcome contributions for short (8 pages) and long (16 pages) papers that address the [topics of interest](https://muws-workshop.github.io/cfp/).
 
 Papers should follow the CEUR Proceedings style, [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). All submissions must be written in English, must be formatted according to the proceedings style, and should adhere to double-blind review requirements.
 
@@ -16,14 +16,14 @@ Accepted papers will be given the option to be published as part of a [CEUR Work
 
 ## Submission Page
 
-- Submission Page: [https://easychair.org/conferences/?conf=muws23](https://easychair.org/conferences/?conf=muws23)
+- Submission Page: 
 
 ## Important datess
 
-- Submission deadline: September 15th, 2023
-- Paper notification: October 4th, 2023
-- Workshop date: October 22nd, 2023
+- Submission deadline: 
+- Paper notification: 
+- Workshop date: 
 
 ## Contact
 
-If you have any problems or questions, please contact us via e-mail at: [muws23@easychair.org](mailto:muws23@easychair.org)
+If you have any problems or questions, please contact us via e-mail at: TBD

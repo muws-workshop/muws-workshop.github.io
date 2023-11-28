@@ -1,5 +1,5 @@
 ---
-title: "MUWS 2024 - The 2nd International Workshop on Multimodal Human Understanding for the Web and Social Media"
+title: "MUWS 2024 - The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media"
 ---
 
 The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with TBD.

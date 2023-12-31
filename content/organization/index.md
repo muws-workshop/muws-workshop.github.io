@@ -6,6 +6,17 @@ title: "Organization"
 
 
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
+
+  <div class="col">
+    <div class="card">
+      <img src="kastner.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Marc A. Kastner</h5>
+        <p class="card-text">Kyoto University, Japan<br><a href="https://www.marc-kastner.com">Website</a></p>
+      </div>
+    </div>
+  </div>
+  
   <div class="col">
     <div class="card">
       <img src="cheema.jpg" class="card-img-top" alt="...">
@@ -22,16 +33,6 @@ title: "Organization"
       <div class="card-body">
         <h5 class="card-title">Sherzod Hakimov</h5>
         <p class="card-text">University of Potsdam, Germany<br><a href="https://sherzod-hakimov.github.io">Website</a></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card">
-      <img src="kastner.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Marc A. Kastner</h5>
-        <p class="card-text">Kyoto University, Japan<br><a href="https://www.marc-kastner.com">Website</a></p>
       </div>
     </div>
   </div>

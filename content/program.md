@@ -2,11 +2,11 @@
 title: "Program"
 ---
 
-**Date**: 
+**Date**: June 10, 2024 in Phuket, Thailand
 
-**Time**: 
+**Time**: TBD
 
-**Room**:
+**Room**: TBD
 
 ## Schedule
 

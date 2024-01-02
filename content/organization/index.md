@@ -68,4 +68,4 @@ title: "Organization"
 
 
 
-If you have any problems or questions, please contact us via e-mail at: [muws23@easychair.org](mailto:muws23@easychair.org)
+If you have any problems or questions, please contact us via e-mail at: [muws24@easychair.org](mailto:muws24@easychair.org)

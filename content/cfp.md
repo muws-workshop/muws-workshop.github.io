@@ -25,8 +25,8 @@ The theme of the MUWS workshop, multimodal human understanding, includes various
 
 ## Submission Page
 
-- Submission Page: TBD
+- Submission Page: [https://easychair.org/my/conference?conf=muws24](https://easychair.org/my/conference?conf=muws24)
 
 ## Contact
 
-If you have any problems or questions, please contact us via e-mail at: TBD
+If you have any problems or questions, please contact us via e-mail at: [muws24@easychair.org](mailto:muws24@easychair.org)

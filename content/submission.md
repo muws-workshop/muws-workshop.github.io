@@ -17,7 +17,7 @@ Papers will be evaluated according to their significance, originality, technical
 
 ## Submission Page
 
-- Submission Page: 
+- Submission Page: [https://easychair.org/my/conference?conf=muws24](https://easychair.org/my/conference?conf=muws24)
 
 ## Important dates
 
@@ -27,4 +27,4 @@ Papers will be evaluated according to their significance, originality, technical
 
 ## Contact
 
-If you have any problems or questions, please contact us via e-mail at: TBD
+If you have any problems or questions, please contact us via e-mail at: [muws24@easychair.org](mailto:muws24@easychair.org)

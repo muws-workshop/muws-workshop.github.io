@@ -2,7 +2,7 @@
 title: "MUWS 2024 - The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media"
 ---
 
-The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located in Phuket, Thailand with [ICMR 2024](http://icmr2024.org/).
+The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with [International Conference on Multimedia Retrieval (ICMR) 2024](http://icmr2024.org/) in Phuket, Thailand.
 
 ## Schedule
 

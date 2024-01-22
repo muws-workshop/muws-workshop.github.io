@@ -6,8 +6,9 @@ The 3rd International Workshop on Multimodal Human Understanding for the Web and
 
 ## Schedule
 
-- Submission deadline: April 30, 2024 
-- Paper notification: May 20, 2024
+- Submission deadline: April 7, 2024 
+- Paper notification: April 21, 2024
+- Camera ready: April 25, 2024
 - Workshop date: June 10, 2024 in Phuket, Thailand
 
 ## Workshop Overview

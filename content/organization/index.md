@@ -12,7 +12,7 @@ title: "Organization"
       <img src="kastner.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Marc A. Kastner</h5>
-        <p class="card-text">Kyoto University, Japan<br><a href="https://www.marc-kastner.com">Website</a></p>
+        <p class="card-text">Hiroshima City University, Japan<br><a href="https://www.marc-kastner.com">Website</a></p>
       </div>
     </div>
   </div>

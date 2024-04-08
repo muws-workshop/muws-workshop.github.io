@@ -17,9 +17,9 @@ The theme of the MUWS workshop, multimodal human understanding, includes various
 - Multimodal content understanding and analysis
 - Multimodal rhetoric in online media
 
-## Important dates
+## Important dates (Anywhere on Earth)
 
-- Submission deadline: April 7, 2024 
+- Submission deadline: April 14, 2024 
 - Paper notification: April 21, 2024
 - Camera ready: April 25, 2024
 - Workshop date: June 10, 2024 in Phuket, Thailand

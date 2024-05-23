@@ -2,6 +2,8 @@
 title: "Program"
 ---
 
+## Time zones
+
 ### Central European Time
 <div id="berlin-time"></div>
 
@@ -37,7 +39,6 @@ function updateTime() {
 updateTime();
 setInterval(updateTime, 1000);
 </script>
-
 
 ## Schedule
 

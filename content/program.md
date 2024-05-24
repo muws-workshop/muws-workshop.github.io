@@ -4,11 +4,8 @@ title: "Program"
 
 ## Time zones
 
-### Central European Time
-<div id="berlin-time"></div>
-
-### Phuket Time
-<div id="phuket-time"></div>
+- Phuket Time: <span id="phuket-time"></span>
+- Central European Time: <span id="berlin-time"></span>
 
 <script>
 function updateTime() {
@@ -44,8 +41,17 @@ setInterval(updateTime, 1000);
 
 **Date**: June 10, 2024 in Phuket, Thailand
 
-**Time**: TBD
+**Time**: 13:30-18:25 Phuket Time
 
-**Room**: TBD
+**Room**: Dara, Dusit Thani Laguna Phuket
 
+- 13:30-13:35 - Welcome session
+- 13:35-14:05 - Invited talk by Tianwei Chen “Would Deep Generative Models Amplify Bias in Future Models?”
+- 14:05-15:00 - Keynote by Janina Wildfeuer “The complex (discourse) structures of multimodal communication: are they really computable?”
+- 15:00-16:00 - Break
+- 16:00-17:00 - Keynote by Desmond Elliott “TBD” + Q/A (45+15)
+- 17:00-17:30 - Invited talk by Chihaya Matsuhira “Data-Driven Approaches for Modeling Human Perception of Nonwords”
+- 17:30-18:50 - Accepted talk by Yusuke Hirota et al. “Mitigating Gender Bias in Zero-Shot Image Captioning Models”
+- 18:50-18:20 - Invited talk by Eric Müller-Budack “Multimodal News Analytics”
+- 18:20-18:25 - Closing session
 

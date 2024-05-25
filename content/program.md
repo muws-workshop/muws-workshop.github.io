@@ -49,7 +49,7 @@ setInterval(updateTime, 1000);
 - 13:35-14:05 - Invited talk by Tianwei Chen “Would Deep Generative Models Amplify Bias in Future Models?”
 - 14:05-15:00 - Keynote by Janina Wildfeuer “The complex (discourse) structures of multimodal communication: are they really computable?”
 - 15:00-16:00 - Break
-- 16:00-17:00 - Keynote by Desmond Elliott “TBD”
+- 16:00-17:00 - Keynote by Desmond Elliott “Towards Multilingual and Multimodal Language Processing for Everyone”
 - 17:00-17:30 - Invited talk by Chihaya Matsuhira “Data-Driven Approaches for Modeling Human Perception of Nonwords”
 - 17:30-18:50 - Accepted talk by Yusuke Hirota et al. “Mitigating Gender Bias in Zero-Shot Image Captioning Models”
 - 18:50-18:20 - Invited talk by Eric Müller-Budack “Multimodal News Analytics”

@@ -62,7 +62,7 @@ Abstract: Multimodal research has typically focused on English language understa
 Bio: Desmond is an Associate Professor and a Villum Young Investigator at the University of Copenhagen. He obtained his Ph.D from the University of Edinburgh, under the supervision of Frank Keller, and he was a Postdoctoral Researcher at CWI, and the University of Amsterdam in the Netherlands. His current research interests include tokenisation-free language modelling, and multilingual and multimodal learning. He received the EMNLP 20201 Best Long Paper Award for creating the multicultural MarVL dataset, and he has been involved in the creation of several other multilingual multimodal datasets, including Multi30K, How2, and the IGLUE benchmark.
 
 - 17:00-17:30 - Invited talk by Chihaya Matsuhira “Data-Driven Approaches for Modeling Human Perception of Nonwords”
-- 17:30-18:50 - Accepted talk by Yusuke Hirota et al. “Mitigating Gender Bias in Zero-Shot Image Captioning Models”
-- 18:50-18:20 - Invited talk by Eric Müller-Budack “Multimodal News Analytics”
+- 17:30-17:50 - Accepted talk by Yusuke Hirota et al. “Mitigating Gender Bias in Zero-Shot Image Captioning Models”
+- 17:50-18:20 - Invited talk by Eric Müller-Budack “Multimodal News Analytics”
 - 18:20-18:25 - Closing session
 

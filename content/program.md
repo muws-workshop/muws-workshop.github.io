@@ -39,6 +39,12 @@ setInterval(updateTime, 1000);
 
 ## Schedule
 
+Zoom link: https://uni-potsdam.zoom-x.de/j/64217137690
+
+Meeting ID: 642 1713 7690
+Passcode: 93288836
+
+
 **Date**: June 10, 2024 in Phuket, Thailand
 
 **Time**: 13:30-18:25 Phuket Time

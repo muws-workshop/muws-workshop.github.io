@@ -54,7 +54,8 @@ In this presentation, I will provide ways of using recent developments from mult
 
 Bio: Janina Wildfeuer is a #multimodalist with a multi-faceted background in linguistics, semiotics, and discourse analysis. She has about 15 years of experience in working with visual and audiovisual communication and has built particular expertise in films and audiovisual data, comics, social media and games. Janina has contributed to the theoretical and methodological development of multimodality studies and also worked in corpus-analytical and empirically oriented projects. At the moment, she focuses on the question of how (audio-)visual communication can help building a better future for our society. In her position at the University of Groningen, Janina teaches classes on multimodality, digital communication, visual and audio-visual analysis and works as programme coordinator of the Master program Communication and Information Studies. She is also the Chief Editor of the journal 'Visual Communication', one of the key journals in the field of visual and multimodal communication, and Associate Editor for the speciality section 'Multimodality of Communication' with Frontiers in Communication.
 
-- 15:00-16:00 - Break
+- 15:00-15:30 - Break
+- 15:30-16:00 - Invited talk by Eric Müller-Budack “Multimodal News Analytics”
 - 16:00-17:00 - Keynote by Desmond Elliott “Towards Multilingual and Multimodal Language Processing for Everyone”
 
 Abstract: Multimodal research has typically focused on English language understanding and reasoning, due to the limited availability of multilingual datasets. In this talk, I will speak about the importance of multilingual multimodal processing from two perspectives. In the first perspective, I will describe how we can create high-quality non-English multimodal datasets in culturally-engaged processes. From the second perspective, I will discuss the role of tokenization-free language modelling in enabling high-quality and lightweight multilingual representations for all written languages.
@@ -63,6 +64,5 @@ Bio: Desmond is an Associate Professor and a Villum Young Investigator at the Un
 
 - 17:00-17:30 - Invited talk by Chihaya Matsuhira “Data-Driven Approaches for Modeling Human Perception of Nonwords”
 - 17:30-17:50 - Accepted talk by Yusuke Hirota et al. “Mitigating Gender Bias in Zero-Shot Image Captioning Models”
-- 17:50-18:20 - Invited talk by Eric Müller-Budack “Multimodal News Analytics”
-- 18:20-18:25 - Closing session
+- 17:50-17:55 - Closing session
 

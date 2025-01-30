@@ -33,3 +33,10 @@ Bio: Desmond is an Associate Professor and a Villum Young Investigator at the Un
 - 17:00-17:30 - Invited talk by Chihaya Matsuhira “Data-Driven Approaches for Modeling Human Perception of Nonwords”
 - 17:30-17:35 - Closing session
 
+
+## Organizing Committee
+
+- Marc A. Kastner
+- Gullal S. Cheema
+- Sherzod Hakimov
+- Noa Garcia

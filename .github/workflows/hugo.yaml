@@ -5,7 +5,6 @@ on:
     branches:
       - main
 
-
 permissions:
   contents: read
   pages: write
@@ -14,10 +13,15 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # Set up GitHub Pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Updated to v4
 
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v2
@@ -28,16 +32,23 @@ jobs:
         run: hugo --minify
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4  # Updated action
+        uses: actions/upload-pages-artifact@v3 # Changed to upload-pages-artifact
         with:
-          name: site
           path: ./public
 
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    
+    # Specify Deployment branch
+    deploymeny:
+      pages:
+        branch: gh-pages
+
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
-        with:
-          branch: gh-pages
+        id: deployment
+        uses: actions/deploy-pages@v4  # Updated to v4

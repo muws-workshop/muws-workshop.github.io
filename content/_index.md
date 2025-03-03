@@ -1,15 +1,15 @@
 ---
-title: "MUWS 2024 - The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media"
+title: "MUWS 2025 - The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media"
 ---
 
-The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with [International Conference on Multimedia Retrieval (ICMR) 2024](http://icmr2024.org/) in Phuket, Thailand.
+The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with [ACM Multimedia'25](https://acmmm2025.org/) in Dublin, Ireland.
 
 ## Schedule
 
-- Submission deadline: April 14, 2024 (Anywhere on Earth)
-- Paper notification: April 21, 2024
-- Camera ready: April 25, 2024
-- Workshop date: June 10, 2024 in Phuket, Thailand
+- Submission deadline: TDB (Anywhere on Earth)
+- Paper notification: TBD
+- Camera ready: TBD
+- Workshop date: October 27/28, 2025 in Dublin, Ireland
 
 ## Workshop Overview
 

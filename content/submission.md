@@ -17,15 +17,15 @@ Papers will be evaluated according to their significance, originality, technical
 
 ## Submission Page
 
-- Submission Page: [https://easychair.org/my/conference?conf=muws24](https://easychair.org/my/conference?conf=muws24)
+- Submission Page: [link](link)
 
 ## Important dates
 
-- Submission deadline: April 14, 2024 (Anywhere on Earth)
-- Paper notification: April 21, 2024
-- Camera ready: April 25, 2024
-- Workshop date: June 10, 2024 in Phuket, Thailand
+- Submission deadline: TBD (Anywhere on Earth)
+- Paper notification: TBD
+- Camera ready: TBD
+- Workshop date: October 27/28 2025 in Dublin, Ireland
 
 ## Contact
 
-If you have any problems or questions, please contact us via e-mail at: [muws24@easychair.org](mailto:muws24@easychair.org)
+If you have any problems or questions, please contact us via e-mail at: [tbd@tbd.com](tbd@tbd.com)

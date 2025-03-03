@@ -2,14 +2,20 @@
 title: "Call for Papers"
 ---
 
-Multimodal human understanding and analysis is an emerging research area that cuts through several disciplines like Computer Vision, Natural Language Processing (NLP), Speech Processing, Human-Computer Interaction, and Multimedia. Several multimodal learning techniques have recently shown the benefit of combining multiple modalities in image-text, audio-visual and video representation learning and various downstream multimodal tasks. At the core, these methods focus on modelling the modalities and their complex interactions by using large amounts of data, different loss functions and deep neural network architectures. However, for many Web and Social media applications, there is the need to model the human, including the understanding of human behaviour and perception. For this, it becomes important to consider interdisciplinary approaches, including social sciences, semiotics and psychology. The core is understanding various cross-modal relations, quantifying bias such as social biases, and the applicability of models to real-world problems. Interdisciplinary theories such as semiotics or gestalt psychology can provide additional insights and analysis on perceptual understanding through signs and symbols via multiple modalities. In general, these theories provide a compelling view of multimodality and perception that can further expand computational research and multimedia applications on the Web and Social media. 
+Multimodal human understanding and analysis is an emerging research area that cuts through several disciplines like Computer Vision, Natural Language Processing (NLP), Speech Processing, Human-Computer Interaction, and Multimedia. Several multimodal learning techniques have recently shown the benefit of combining multiple modalities in image-text, audio-visual and video representation learning and various downstream multimodal tasks. At the core, these methods focus on modelling the modalities and their complex interactions by using large amounts of data, different loss functions and deep neural network architectures. However, for many Web and Social media applications, there is the need to model the human, including the understanding of human behaviour and perception. For this, it becomes important to consider interdisciplinary approaches, including social sciences, semiotics and psychology.
 
-The theme of the MUWS workshop, multimodal human understanding, includes various interdisciplinary challenges related to social bias analyses, multimodal representation learning, detection of human impressions or sentiment, hate speech, sarcasm in multimodal data, multimodal rhetoric and semantics, and related topics. The MUWS workshop will be an interactive event and include keynotes by relevant experts, poster and demo sessions, research presentations and discussion.
+The workshop will gather novel and unpublished works in the context of representation learning for cross-cultural, human-created multimodal data; from vision and language, cross-modal learning for NLP, IR methods for multimedia data, HCI, bias estimation, and other related topics. We especially look forward to the applicability of interdisciplinary ideas and theories, from semiotics over gestalt theory to multimodal computational research.
+The workshop will equally consider both novel scientific methods and techniques for analysis, extraction and enrichment of multimodal data as well as application perspectives, such as the innovative use of tools and methods for providing rich interaction with multimodal data. We will organize the workshop under two sub-tracks:
 
-- Modeling human impressions in the context of the Web and Social Media
-- Cross-modal and semantic relations
-- Incorporating multi-disciplinary theories such as Semiotics or Gestalt-Theory into multimodal analyses
-- Measuring and analyzing biases such as cultural bias, social bias, multilingual bias, and related topics in the context of the Web and Social Media
+### Track 1: Human-Centred Multimodal Understanding
+
+The goal of this track is to attract researchers working in multimodal understanding (NLP, CV, Digital Humanities, and other related fields) topics with a focus on human-centred aspects. We will seek for original, both application-oriented and theoretical papers, and position papers that bridge both text and multimedia data. This track will cover novel research that targets (but not limited to) the following topics of interest:
+
+- Multimodal modelling of human impressions in the context of the Web and social media
+- Incorporating multi-disciplinary theories such as semiotics or Gestalt-theory into multimodal approaches and analyses
+- Human-centred aspects in Vision and Language models
+- Measuring and analysing cultural, social and multilingual biases in the context of the Web and social media
+- Cross-modal and semantic relations in multimodal web data
 - Multimodal human perception understanding
 - Multimodal sentiment/emotion/sarcasm recognition
 - Multimodal hate speech detection
@@ -17,17 +23,35 @@ The theme of the MUWS workshop, multimodal human understanding, includes various
 - Multimodal content understanding and analysis
 - Multimodal rhetoric in online media
 
+
+### Track 2: Multimodal Understanding Through Impactful World Events
+
+The goal of this track is to provide a dataset that facilitates the development of AI solutions for relevant and impactful research questions in order to bring together researchers working on similar topics such as multimedia and multimodal AI. For this purpose, we will collect \textit{news and social media data with both image and text} related to events that attracted~(or will attract) global impact, e.g., the 2024 United States presidential election, the upcoming 2025 German federal election, or the DeepSeek.AI R1 model & stock market crash. The dataset will cover multimodal content in various languages published in different regions of the world. This allows the study of how the same event is portrayed in countries with different cultural, economic, and regional background. To foster research, we will provide various research questions along with the dataset which include, but are not limited to:
+ 
+
+- **Geographical Proximity**: How can news values in multimodal news such as the location of an event affect the human perception?
+
+- **Multimodal Cultural Bias**: How are world-wide events perceived across different cultures or languages?
+
+- **Framing of Elites**: How do multimodal framing techniques employed by news outlets differ in their portrayal of elite figures, e.g., politicians during major electoral events?
+- **Sentiment across Cultures**: How does the sentiment expressed in news articles and social media posts, throughout textual and visual vary across different countries covering the same event?
+
+- **Societal Impact**: How do world-wide events affect masses with regards to potential perceived consequences, and what is the role of each data modality on that perception?
+
+The goal for participants is to develop novel research ideas based on the dataset but without requiring them to compete against each other. Each submitted work is expected to target some of the research questions while studying the unique aspect of the problem.
+
+
 ## Important dates (Anywhere on Earth)
 
-- Submission deadline: April 14, 2024 
-- Paper notification: April 21, 2024
-- Camera ready: April 25, 2024
-- Workshop date: June 10, 2024 in Phuket, Thailand
+- Submission deadline: TBD 
+- Paper notification: TBD
+- Camera ready: TBD
+- Workshop date: October 27/28, 2025 in Dublin, Ireland
 
 ## Submission Page
 
-- Submission Page: [https://easychair.org/my/conference?conf=muws24](https://easychair.org/my/conference?conf=muws24)
+- Submission Page: [link](link)
 
 ## Contact
 
-If you have any problems or questions, please contact us via e-mail at: [muws24@easychair.org](mailto:muws24@easychair.org)
+If you have any problems or questions, please contact us via e-mail at: [tbd@tbd.com](mailto:tbd@tbd.com)

@@ -9,6 +9,26 @@ title: "Organization"
 
   <div class="col">
     <div class="card">
+      <img src="hakimov.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Sherzod Hakimov</h5>
+        <p class="card-text">University of Potsdam, Germany<br><a href="https://sherzod-hakimov.github.io">Website</a></p>
+      </div>
+    </div>
+  </div>
+
+ <div class="col">
+    <div class="card">
+      <img src="semedo.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">David Semedo</h5>
+        <p class="card-text">NOVA University of Lisbon, Portugal<br><a href="https://muws-workshop.github.io/organization/">Website</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card">
       <img src="kastner.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Marc A. Kastner</h5>
@@ -19,30 +39,20 @@ title: "Organization"
   
   <div class="col">
     <div class="card">
-      <img src="cheema.jpg" class="card-img-top" alt="...">
+      <img src="mueller-budack.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Gullal S. Cheema</h5>
-        <p class="card-text">L3S Research Center, Leibniz University Hannover, Germany<br><a href="https://gullalc.github.io">Website</a></p>
+        <h5 class="card-title">Eric Müller-Budack</h5>
+        <p class="card-text">L3S Research Center, Leibniz University Hannover, Germany<br><a href="https://www.researchgate.net/profile/Eric-Mueller-Budack">Website</a></p>
       </div>
     </div>
   </div>
 
   <div class="col">
     <div class="card">
-      <img src="hakimov.jpg" class="card-img-top" alt="...">
+      <img src="komamizu.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Sherzod Hakimov</h5>
-        <p class="card-text">University of Potsdam, Germany<br><a href="https://sherzod-hakimov.github.io">Website</a></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card">
-      <img src="garcia.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Noa Garcia</h5>
-        <p class="card-text">Osaka University, Japan<br><a href="https://www.noagarciad.com">Website</a></p>
+        <h5 class="card-title">Takahiro Komamizu</h5>
+        <p class="card-text">Nagoya University, Japan<br><a href="https://taka-coma.pro/">Website</a></p>
       </div>
     </div>
   </div>
@@ -50,7 +60,6 @@ title: "Organization"
 
 ## Programme Committee
 
-- Eric Müller-Budack, TIB -- Leibniz Information Centre for Science and Technology, Germany
 - Christian Otto, L3S Research Center, Germany
 - Özge Alaçam, Bielefeld University, Germany
 - Tuomo Hiippala, University of Helsinki, Finland
@@ -68,4 +77,4 @@ title: "Organization"
 
 
 
-If you have any problems or questions, please contact us via e-mail at: [muws24@easychair.org](mailto:muws24@easychair.org)
+If you have any problems or questions, please contact us via e-mail at: [tbd@tbd.com](tbd@tbd.com)

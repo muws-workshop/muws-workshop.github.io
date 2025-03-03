@@ -22,7 +22,7 @@ jobs:
         run: hugo --minify
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3  # Updated action
+        uses: actions/upload-artifact@v4  # Updated action
         with:
           name: site
           path: ./public

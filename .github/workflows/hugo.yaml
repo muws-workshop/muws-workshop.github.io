@@ -42,17 +42,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
-    
-    # Specify Deployment branch
-    # Fixed typo here: "deploymeny" -> "deployment"
-    deployment:
-      permissions:
-        pages: write
-      
-      environment:
-        name: github-pages
-      
+
+    # Removed the deployment block that was causing the error
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        

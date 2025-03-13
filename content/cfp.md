@@ -43,9 +43,9 @@ The goal for participants is to develop novel research ideas based on the datase
 
 ## Important dates (Anywhere on Earth)
 
-- Submission deadline: TBD 
-- Paper notification: TBD
-- Camera ready: TBD
+- Submission deadline: July 11th, 2025 
+- Paper notification: July 24th, 2025
+- Camera ready: August 3rd, 2025
 - Workshop date: October 27/28, 2025 in Dublin, Ireland
 
 ## Submission Page

@@ -58,6 +58,7 @@ title: "Organization"
   </div>
 </div>
 
+<!-- 
 ## Programme Committee
 
 - Christian Otto, L3S Research Center, Germany
@@ -75,6 +76,6 @@ title: "Organization"
 - Yankun Wu, Osaka University, Japan
 - Sandro Pezzelle, University of Amsterdam, Netherlands
 
+-->
 
-
-If you have any problems or questions, please contact us via e-mail at: [tbd@tbd.com](tbd@tbd.com)
+If you have any problems or questions, please contact us via e-mail at: [mailing list](mailto:muws-workshop@listserv.dfn.de)

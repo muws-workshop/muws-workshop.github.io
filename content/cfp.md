@@ -54,4 +54,4 @@ The goal for participants is to develop novel research ideas based on the datase
 
 ## Contact
 
-If you have any problems or questions, please contact us via e-mail at: [tbd@tbd.com](mailto:tbd@tbd.com)
+If you have any problems or questions, please contact us via e-mail at: [mailing list](mailto:muws-workshop@listserv.dfn.de)

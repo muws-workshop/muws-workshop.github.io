@@ -28,4 +28,4 @@ Papers will be evaluated according to their significance, originality, technical
 
 ## Contact
 
-If you have any problems or questions, please contact us via e-mail at: [tbd@tbd.com](tbd@tbd.com)
+If you have any problems or questions, please contact us via e-mail at: [mailing list](mailto:muws-workshop@listserv.dfn.de)

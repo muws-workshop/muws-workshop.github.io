@@ -17,7 +17,7 @@ Papers will be evaluated according to their significance, originality, technical
 
 ## Submission Page
 
-- Submission Page: [link](link)
+- Submission Page: [via OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2025/Workshop/MUWS)
 
 ## Important dates
 

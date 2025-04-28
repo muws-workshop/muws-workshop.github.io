@@ -50,7 +50,7 @@ The goal for participants is to develop novel research ideas based on the datase
 
 ## Submission Page
 
-- Submission Page: [link](link)
+- Submission Page: [via OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2025/Workshop/MUWS)
 
 ## Contact
 

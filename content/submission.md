@@ -4,10 +4,12 @@ title: "Submission"
 
 ## Submission Instructions
 
-We welcome contributions for short (4 pages) and long (8 pages) papers that address the [topics of interest](https://muws-workshop.github.io/cfp/).
+We welcome contributions for short (2-4 pages) and long (8 pages) papers (**plus unlimited number of pages for the references**) that address the [topics of interest](https://muws-workshop.github.io/cfp/).
 
-- Long research papers should present complete work with evaluations on topics related to the Conference. They will have both oral and poster presentations at the conference.
-- Short research papers should present preliminary results or more focused contributions. They will be presented as posters at the conference.
+- Long research papers should present complete work with evaluations on related topics.
+- Short research papers should present preliminary results or more focused contributions, we also welcome reports of 2 pages for the Track-2 focused work.
+
+
 
 Papers should follow the [ACM Proceedings style](https://www.acm.org/publications/proceedings-template). All submissions must be written in English, must be formatted according to the proceedings style, and should adhere to double-blind review requirements.
 

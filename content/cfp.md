@@ -42,7 +42,6 @@ The goal for participants is to develop novel research ideas based on the datase
 
 #### Dataset 1: Tweets posted by news companies around the world about Ukraine-Russia Conflict.
 
-##### Dataset details
 The dataset includes 1,524,826 tweets for 60 languages. 306,295 tweets include images and thus the `image_tags` is be populated with the classified concepts, and it is an empty list in case the tweet does not include an image.
 
 Each entry in the dataset is a single JSON line and has the following entries:
@@ -67,7 +66,6 @@ Plus the typical entries that exist in a tweet: full body text, media URLs etc.
 
 #### Dataset 2:  News bias categories `left`, `right`, `center` for main stream events
 
-##### Dataset details
 The dataset includes 410 lines where each line refers to a specific event. For each event, we then extracted the bias categories `left`, `right`, `center` and the corresponding news articles (their links). The articles are published between January and May 2025.
 
 
@@ -113,7 +111,7 @@ For each `headline` there is a left, right or center-oriented news article. We a
 
 
 
-#### Participation
+#### Participation and accessing the datasets in Track 2
 Please fill out this form with the required details (fullname, email etc.) and we will send the password protected link to your indicated email address.: [https://forms.gle/tLJEZfJsnYhW5dYg8](https://forms.gle/tLJEZfJsnYhW5dYg8)
 
 

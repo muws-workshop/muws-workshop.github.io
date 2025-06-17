@@ -42,7 +42,7 @@ title: "Organization"
       <img src="mueller-budack.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Eric Müller-Budack</h5>
-        <p class="card-text">TIB – Leibniz Information Centre for Science and Technology, Hannover, Germany<br><a href="https://www.researchgate.net/profile/Eric-Mueller-Budack">Website</a></p>
+        <p class="card-text">TIB – Leibniz Information Centre for Science and Technology, Hannover, Germany<br><a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics/staff/eric-mueller-budack">Website</a></p>
       </div>
     </div>
   </div>

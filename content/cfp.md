@@ -73,40 +73,40 @@ Each entry in the dataset is a single JSON line and has the following entries:
 
 ```json
 {
-'date':
-'headline':
-'headline_link':
-'topic':
-'topic_link':
-'tags':
-'summary':
-'left': {
-	'source':
-	'headline': 
-	'link': 
-	'rating_img': 
-	'rating': 
-	'summary': 
-	'image_link': 
-	'news_type': 
-}
-'right': { ... same structure as above ... }
-'center': { ... same structure as above ... }
-'more_left': [
-	{
+	'date':
+	'headline':
+	'headline_link':
+	'topic':
+	'topic_link':
+	'tags':
+	'summary':
+	'left': {
 		'source':
 		'headline': 
 		'link': 
 		'rating_img': 
 		'rating': 
 		'summary': 
-		'all_sides_link': 
+		'image_link': 
 		'news_type': 
-	},
-	{ ... same structure as above ... }
-]
-'more_right': [ ... same structure as above ...]
-'more_center': [ ... same structure as above ...]
+	}
+	'right': { ... same structure as above ... }
+	'center': { ... same structure as above ... }
+	'more_left': [
+		{
+			'source':
+			'headline': 
+			'link': 
+			'rating_img': 
+			'rating': 
+			'summary': 
+			'all_sides_link': 
+			'news_type': 
+		},
+		{ ... same structure as above ... }
+	]
+	'more_right': [ ... same structure as above ...]
+	'more_center': [ ... same structure as above ...]
 }
 ```
 

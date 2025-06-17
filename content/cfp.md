@@ -46,18 +46,18 @@ The dataset includes 1,524,826 tweets for 60 languages. 306,295 tweets include i
 
 Each entry in the dataset is a single JSON line and has the following entries:
 
-```
+```json
 {
-'tweet_id': 
-'lang':
-'stanza_output':
-'stanza_named_entities':
-'sentiment':
-'stance':
-'channel':
-'country': 
-'verified':
-'image_tags':
+	'tweet_id': 
+	'lang':
+	'stanza_output':
+	'stanza_named_entities':
+	'sentiment':
+	'stance':
+	'channel':
+	'country': 
+	'verified':
+	'image_tags':
 }
 ```
 
@@ -71,9 +71,9 @@ The dataset includes 410 lines where each line refers to a specific event. For e
 
 Each entry in the dataset is a single JSON line and has the following entries:
 
-```
+```json
 {
-'date': 
+'date':
 'headline':
 'headline_link':
 'topic':
@@ -89,10 +89,11 @@ Each entry in the dataset is a single JSON line and has the following entries:
 	'summary': 
 	'image_link': 
 	'news_type': 
-	}
-'right': { ... same structure as above ...}
-'center': { ... same structure as above ...}
+}
+'right': { ... same structure as above ... }
+'center': { ... same structure as above ... }
 'more_left': [
+	{
 		'source':
 		'headline': 
 		'link': 
@@ -101,7 +102,9 @@ Each entry in the dataset is a single JSON line and has the following entries:
 		'summary': 
 		'all_sides_link': 
 		'news_type': 
-	]
+	},
+	{ ... same structure as above ... }
+]
 'more_right': [ ... same structure as above ...]
 'more_center': [ ... same structure as above ...]
 }
@@ -129,4 +132,4 @@ Please fill out this form with the required details (fullname, email etc.) and w
 
 ## Contact
 
-If you have any problems or questions, please contact us via e-mail at: [mailing list](mailto:muws-workshop@listserv.dfn.de)
+If you have any problems or questions, please contact us via e-mail at: [muws-workshop@listserv.dfn.de](mailto:muws-workshop@listserv.dfn.de)

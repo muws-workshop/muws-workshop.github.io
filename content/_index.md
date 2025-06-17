@@ -2,14 +2,14 @@
 title: "MUWS 2025 - The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media"
 ---
 
-The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with [ACM Multimedia'25](https://acmmm2025.org/) in Dublin, Ireland.
+The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with [ACM Multimedia 2025](https://acmmm2025.org/) in Dublin, Ireland.
 
 ## Schedule
 
 - Submission deadline: July 11th, 2025 (Anywhere on Earth)
 - Paper notification: July 24th, 2025
 - Camera ready: August 3rd, 2025
-- Workshop date: October 27/28, 2025 in Dublin, Ireland
+- Workshop date: October 28, 2025 in Dublin, Ireland
 
 ## Workshop Overview
 

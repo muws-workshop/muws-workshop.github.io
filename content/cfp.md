@@ -46,7 +46,7 @@ The dataset includes 1,524,826 tweets for 60 languages. 306,295 tweets include i
 
 Each entry in the dataset is a single JSON line and has the following entries:
 
-```json
+```
 {
 	'tweet_id': 
 	'lang':
@@ -71,7 +71,7 @@ The dataset includes 410 lines where each line refers to a specific event. For e
 
 Each entry in the dataset is a single JSON line and has the following entries:
 
-```json
+```
 {
 	'date':
 	'headline':

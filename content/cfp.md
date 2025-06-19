@@ -124,7 +124,7 @@ Please fill out this form with the required details (fullname, email etc.) and w
 - Submission deadline: July 11th, 2025 
 - Paper notification: July 24th, 2025
 - Camera ready: August 3rd, 2025
-- Workshop date: October 27/28, 2025 in Dublin, Ireland
+- Workshop date: October 28, 2025 in Dublin, Ireland
 
 ## Submission Page
 

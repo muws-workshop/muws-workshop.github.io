@@ -122,8 +122,8 @@ Please fill out this form with the required details (fullname, email etc.) and w
 ## Important dates (Anywhere on Earth)
 
 - Submission deadline: July 20th, 2025 
-- Paper notification: July 27th, 2025
-- Camera ready: August 3rd, 2025
+- Paper notification: August 1st, 2025
+- Camera ready: August 8th, 2025
 - Workshop date: October 28, 2025 in Dublin, Ireland
 
 ## Submission Page

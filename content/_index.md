@@ -7,8 +7,8 @@ The 4th International Workshop on Multimodal Human Understanding for the Web and
 ## Schedule
 
 - Submission deadline: July 20th, 2025 (Anywhere on Earth)
-- Paper notification: July 27th, 2025
-- Camera ready: August 3rd, 2025
+- Paper notification: August 1st, 2025
+- Camera ready: August 8th, 2025
 - Workshop date: October 28, 2025 in Dublin, Ireland
 
 ## Workshop Overview

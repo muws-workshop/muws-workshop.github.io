@@ -25,7 +25,7 @@ Papers will be evaluated according to their significance, originality, technical
 
 - Submission deadline: July 20th, 2025 (Anywhere on Earth)
 - Paper notification: August 1st, 2025
-- Camera ready: August 8th, 2025
+- Camera ready: ~~August 8th~~ August 26th, 2025
 - Workshop date: October 28 2025 in Dublin, Ireland
 
 ## Contact

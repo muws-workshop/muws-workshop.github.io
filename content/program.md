@@ -12,7 +12,7 @@ The 4th International Workshop on Multimodal Human Understanding for the Web and
 
 - 09:00 – 9:10 - Chairs' Welcome
 
-- 09:10 – 10:10 - Keynote Talk by Beate Schirrmacher "Factuality, Storytelling and the Quest for Authenticity in Journalism"
+- 09:10 – 10:10 - Keynote Talk by *Beate Schirrmacher* "Factuality, Storytelling and the Quest for Authenticity in Journalism"
 
 
 **Abstract**: In discussions of mis- and disinformation, facts are often pitted against narratives. However, even reliable and relevant information relies on narration. For instance, journalism does not simply report the facts; it constructs multimodal, transmedial, and serial narratives to explain and engage audiences regarding recent events. How does the increased focus on emotionally charged storytelling impact on the the facts and information conveyed? This presentation examines the interplay between factual narration and storytelling in journalism, exploring how facts and stories inform one another. Drawing on intermedial theory, this kind of analysis explores truthfulness in communication an interplay of perceived traces of events and communicational coherence (Elleström 2018). The analysis reveals how a set of shared basic features shapes journalistic news narration, but it also matters how these features are assembled, as the specific use of narrative and rhetorical patterns can either support or undermine factuality. For instance, in the fake features of the former German reporter Claas Relotius, narrative coherence and claims of authenticity replace specificity. Furthermore, examples of audiovisual journalism highlight how the increased focus on letting images tell the stories and claims to authenticity transform journalistic narration. Rather than opposing facts and fiction, this approach offers a more nuanced understanding of the narrative challenges of news in a rapidly changing and diverse media landscape So, how does the increased focus on emotionally charged storytelling impact the facts and information conveyed?
@@ -27,7 +27,11 @@ Beate Schirrmacher, Associate Professor in Comparative Literature at the Departm
 - 10:25 – 10:40 - "Multilingual Evaluation of Image-Text Retrieval in Vision-Language Models: A Metric-Based Perspective" by *Bodhisatta Maiti*
 
 - 10:40 – 11:00 - Coffee Break
-- 11:00 – 12:00 - Keynote Talk by Ralph Ewerth
+- 11:00 – 12:00 - Keynote Talk by *Ralph Ewerth*
+
+Ralph Ewerth, Professor at Marburg University and group leader of the Visual Analytics Research Group at TIB -- Leibniz Information Centre for Science and Technology. His current research focuses on Multiscale-Multimodal Modelling and Learning within fields such as multimodal machine learning, multimedia information retrieval, vision and language, digital libraries, and visual analytics. He works with a strong interdisciplinary orientation and with applications in the digital humanities, news analytics, psychology, and digital education, among other fields.
+
+**Session 2: Human-Centred Multimodal Understanding**
 
 - 12:00 – 12:20 - "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features" by *Yui Tanaka* et al.
 

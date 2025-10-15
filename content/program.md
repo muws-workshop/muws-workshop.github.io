@@ -25,6 +25,9 @@ The 4th International Workshop on Multimodal Human Understanding for the Web and
 </div>
 
 
+
+<p></p>
+
 - 10:30 – 11:00 - Coffee Break
 
 **Session 1: Multimodal Understanding Through Impactful World Events**
@@ -43,6 +46,7 @@ The 4th International Workshop on Multimodal Human Understanding for the Web and
 </div>
 
 
+<p></p>
 - 12:30 - 13:30 - Lunch break
 
 

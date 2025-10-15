@@ -53,15 +53,15 @@ The 4th International Workshop on Multimodal Human Understanding for the Web and
 
 **Session 2: Human-Centred Multimodal Understanding**
 
-- 12:30 – 12:50 - "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features" by *Yui Tanaka* et al.
+- 13:30 – 13:50 - "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features" by *Yui Tanaka* et al.
 
-- 12:50 – 13:10 - "Revealing Label Noise in Multimodal Hateful Video Classification" by *Shuonan Yang* et al.
+- 13:50 – 14:10 - "Revealing Label Noise in Multimodal Hateful Video Classification" by *Shuonan Yang* et al.
 
-- 13:10 – 13:25 - "Video Analysis of Confusion and Understanding in Dyadic Explanations" by *Jonas Paletschek* et al.
+- 14:10 – 14:25 - "Video Analysis of Confusion and Understanding in Dyadic Explanations" by *Jonas Paletschek* et al.
 
-- 13:25 – 13:45 - "Landmark Guided Visual Feature Extractor for Visual Speech Recognition with Limited Resources" by *Lei Yang* et al.
+- 14:25 – 14:45 - "Landmark Guided Visual Feature Extractor for Visual Speech Recognition with Limited Resources" by *Lei Yang* et al.
 
-- 13:45 - Closing ceremony
+- 14:45 - Closing ceremony
 
 
 ## Organizing Committee

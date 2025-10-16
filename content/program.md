@@ -10,40 +10,64 @@ The 4th International Workshop on Multimodal Human Understanding for the Web and
 
 **Timezone**: Dublin Time
 
-<div style="text-align: center; margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; color: white;">
-  <div style="font-size: 14px; margin-bottom: 5px;">🇮🇪 Current Time in Dublin</div>
-  <div id="dublin-clock" style="font-size: 32px; font-weight: bold; font-variant-numeric: tabular-nums; letter-spacing: 1px;">--:--:--</div>
-  <div id="dublin-date" style="font-size: 12px; margin-top: 5px; opacity: 0.9;">Loading...</div>
-</div>
-{{< rawhtml >}}
+<div id="dublin-time"></div>
+
+
 <script>
-function updateDublinTime() {
-    const now = new Date();
-    
-    const timeStr = now.toLocaleTimeString('en-IE', {
-        timeZone: 'Europe/Dublin',
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit',
-        hour12: false
-    });
-    
-    const dateStr = now.toLocaleDateString('en-IE', {
-        timeZone: 'Europe/Dublin',
-        weekday: 'long',
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-    });
-    
-    document.getElementById('dublin-clock').textContent = timeStr;
-    document.getElementById('dublin-date').textContent = dateStr;
+
+
+function updateTime() {
+
+
+  var now = new Date();
+
+
+
+
+
+  // Dublin time
+
+
+  var dublinTime = new Intl.DateTimeFormat('en-GB', { 
+
+
+    timeZone: 'Europe/Dublin', 
+
+
+    hour: '2-digit', 
+
+
+    minute: '2-digit', 
+
+
+    second: '2-digit' 
+
+
+  }).format(now);
+
+
+
+  // Update the HTML content
+
+
+  document.getElementById('dublin-time').textContent = dublinTime;
+
 }
 
-updateDublinTime();
-setInterval(updateDublinTime, 1000);
+
+
+
+
+// Update time immediately and then every second
+
+
+updateTime();
+
+
+setInterval(updateTime, 1000);
+
+
 </script>
-{{< /rawhtml >}}
 
 **Room**: Hyatt, Dean Swift 2
 

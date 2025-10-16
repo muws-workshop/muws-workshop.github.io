@@ -15,6 +15,7 @@ The 4th International Workshop on Multimodal Human Understanding for the Web and
   <div id="dublin-clock" style="font-size: 32px; font-weight: bold; font-variant-numeric: tabular-nums; letter-spacing: 1px;">--:--:--</div>
   <div id="dublin-date" style="font-size: 12px; margin-top: 5px; opacity: 0.9;">Loading...</div>
 </div>
+{{< rawhtml >}}
 <script>
 function updateDublinTime() {
     const now = new Date();
@@ -42,6 +43,7 @@ function updateDublinTime() {
 updateDublinTime();
 setInterval(updateDublinTime, 1000);
 </script>
+{{< /rawhtml >}}
 
 **Room**: Hyatt, Dean Swift 2
 

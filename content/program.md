@@ -8,7 +8,11 @@ The 4th International Workshop on Multimodal Human Understanding for the Web and
 
 **Date**: October 28, 2025 in Dublin, Ireland
 
-**Timezone**: Dublin Time,  <label id="dublin-time"></label>
+**Timezone**:  Irish Standard Time 
+
+**Current time**:  **<label id="dublin-time"></label>**
+
+
 
 
 <script>

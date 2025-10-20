@@ -99,7 +99,10 @@ setInterval(updateTime, 1000);
 
 - 11:20 – 11:35 - "Multilingual Evaluation of Image-Text Retrieval in Vision-Language Models: A Metric-Based Perspective" by *Bodhisatta Maiti*
 
-- 11:35 – 12:30 - Keynote Talk by *Ralph Ewerth*
+- 11:35 – 12:30 - Keynote Talk by *Ralph Ewerth* "The Challenge of Multimodality in Analyzing Social Media News and Videos"
+
+**Abstract**: Harmful content on the Web is frequently conveyed in a multimodal manner, i.e., by combining different “forms of expression” (modalities). This yields a major challenge for computational analysis methods, as the modalities can refer to each other and modify the overall meaning of the multimodal information, sometimes even changing the meaning completely (also called meaning multiplication in the literature). However, the complex interplay of information from different modalities is typically not explicitly modelled in state-of-the-art approaches for multimodal information analysis. In this talk, we present our approach to overcome this drawback by introducing a computational model for the complex interplay of modalities (here text and image) and several approaches for multimodal news analysis. Finally, we outline challenges in the quite different domain of educational videos, in particular with regard to video-based learning.
+
 
 <div style="display: flex; gap: 20px; align-items: start;">
   <img src="https://www.tib.eu/fileadmin/Daten/bilder/forschung-entwicklung/ewerth-760x570.jpg" alt="Ralph Ewerth" style="width: 200px; flex-shrink: 0;">

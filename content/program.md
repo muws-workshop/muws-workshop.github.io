@@ -97,9 +97,9 @@ setInterval(updateTime, 1000);
 
 **Session 1: Multimodal Understanding Through Impactful World Events**
 
-- 11:00 – 11:20 - "Analyzing Emotional Discourse in Multilingual Social Media: A Case Study of the Russo-Ukrainian Conflict" by *Ahmed Taiye Mohammed* et al.
+- 11:00 – 11:20 - ["Analyzing Emotional Discourse in Multilingual Social Media: A Case Study of the Russo-Ukrainian Conflict"](https://dl.acm.org/doi/10.1145/3728481.3762167) by *Ahmed Taiye Mohammed* et al.
 
-- 11:20 – 11:35 - "Multilingual Evaluation of Image-Text Retrieval in Vision-Language Models: A Metric-Based Perspective" by *Bodhisatta Maiti*
+- 11:20 – 11:35 - ["Multilingual Evaluation of Image-Text Retrieval in Vision-Language Models: A Metric-Based Perspective"](https://dl.acm.org/doi/10.1145/3728481.3762166) by *Bodhisatta Maiti*
 
 - 11:35 – 12:30 - Keynote Talk by *Ralph Ewerth* "The Challenge of Multimodality in Analyzing Social Media News and Videos"
 
@@ -121,13 +121,13 @@ setInterval(updateTime, 1000);
 
 **Session 2: Human-Centred Multimodal Understanding**
 
-- 13:30 – 13:50 - "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features" by *Yui Tanaka* et al.
+- 13:30 – 13:50 - ["Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features"](https://dl.acm.org/doi/10.1145/3728481.3762163) by *Yui Tanaka* et al.
 
-- 13:50 – 14:10 - "Revealing Label Noise in Multimodal Hateful Video Classification" by *Shuonan Yang* et al.
+- 13:50 – 14:10 - ["Revealing Label Noise in Multimodal Hateful Video Classification"](https://dl.acm.org/doi/10.1145/3728481.3762164) by *Shuonan Yang* et al.
 
-- 14:10 – 14:25 - "Video Analysis of Confusion and Understanding in Dyadic Explanations" by *Jonas Paletschek* et al.
+- 14:10 – 14:25 - ["Video Analysis of Confusion and Understanding in Dyadic Explanations"](https://dl.acm.org/doi/10.1145/3728481.3762168) by *Jonas Paletschek* et al.
 
-- 14:25 – 14:45 - "Landmark Guided Visual Feature Extractor for Visual Speech Recognition with Limited Resources" by *Lei Yang* et al.
+- 14:25 – 14:45 - ["Landmark Guided Visual Feature Extractor for Visual Speech Recognition with Limited Resources"](https://dl.acm.org/doi/10.1145/3728481.3762165) by *Lei Yang* et al.
 
 - 14:45 - Closing ceremony
 

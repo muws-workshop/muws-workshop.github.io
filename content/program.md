@@ -73,6 +73,8 @@ setInterval(updateTime, 1000);
 
 **Room**: Hyatt, Dean Swift 2
 
+**Proceedings**: [https://dl.acm.org/doi/proceedings/10.1145/3728481](https://dl.acm.org/doi/proceedings/10.1145/3728481)
+
 - 09:00 – 9:30 - Chairs' Welcome
 
 - 09:30 – 10:30 - Keynote Talk by *Beate Schirrmacher* "Factuality, Storytelling and the Quest for Authenticity in Journalism"

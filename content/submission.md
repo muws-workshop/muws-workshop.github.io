@@ -21,7 +21,7 @@ Papers will be evaluated according to their significance, originality, technical
 
 - Submission Page: TBA
 
-## Important dates
+## Important Dates (Anywhere on Earth)
 
 - Submission deadline: July 16th, 2026
 - Paper notification: August 6th, 2026

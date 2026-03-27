@@ -4,9 +4,7 @@ title: "MUWS 2026 - The 5th International Workshop on Multimodal Human Understan
 
 The 5th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with [ACM Multimedia 2026](https://2026.acmmm.org/) taking place in Rio de Janeiro, Brazil from November 10-14, 2026.
 
-## Important Dates
-
-All times according to AoE (Anywhere on Earth)
+## Important Dates (Anywhere on Earth)
 
 - Submission deadline: July 16th, 2026
 - Paper notification: August 6th, 2026

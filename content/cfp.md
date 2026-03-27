@@ -118,7 +118,7 @@ For each `headline` there is a left, right or center-oriented news article. We a
 Please fill out this form with the required details (fullname, email etc.) and we will send the password protected link to your indicated email address.: [https://forms.gle/tLJEZfJsnYhW5dYg8](https://forms.gle/tLJEZfJsnYhW5dYg8)
 
 
-## Important dates (Anywhere on Earth)
+## Important Dates (Anywhere on Earth)
 
 - Submission deadline: July 16th, 2026
 - Paper notification: August 6th, 2026

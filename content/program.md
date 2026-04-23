@@ -13,5 +13,6 @@ More program details will follow.
 - Sherzod Hakimov
 - Marc A. Kastner
 - Takahiro Komamizu
+- Jing Yang
 
 **Contact:** [muws-workshop@listserv.dfn.de](mailto:muws-workshop@listserv.dfn.de)

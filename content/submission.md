@@ -19,7 +19,7 @@ Papers will be evaluated according to their significance, originality, technical
 
 ## Submission Page
 
-- Submission Page: TBA
+- Submission Page: [via Open Review](https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/MUWS)
 
 ## Important Dates (Anywhere on Earth)
 

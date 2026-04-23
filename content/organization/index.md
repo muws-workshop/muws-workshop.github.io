@@ -56,6 +56,16 @@ title: "Organization"
       </div>
     </div>
   </div>
+
+<div class="col">
+    <div class="card">
+      <img src="yang.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Jing Yang</h5>
+        <p class="card-text">TU Berlin, Germany<br><a href="https://www.tu.berlin/en/qu/ueber-uns/team-personen/senior-researchers/dr-jing-yang">Website</a></p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- 

@@ -128,7 +128,7 @@ Please fill out this form with the required details (fullname, email etc.) and w
 
 ## Submission Page
 
-- Submission Page: TBA
+- Submission Page: [via Open Review](https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/MUWS
 
 ## Contact
 

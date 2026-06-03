@@ -27,7 +27,7 @@ This track aims to attract researchers working from various disciplines~(compute
 
 ### Track 2: Multimodal Understanding Through Impactful World Events
 
-The goal of this track is to bring together multimodal researchers from various fields to analyse joint, impactful research questions. For this purpose, we have introduced a collection of *news and social media data with both image and tex* related to impactful world events. We have further extend the dataset for MUWS 2026 regarding two main aspects: (1)adding articles from recent events in 2025 and 2026 (e.g., protests against ICE, US tariffs, Iranian protests), and (2) including Portuguese resources (e.g., from Brazil, Portugal, etc.) to not only promote engagement with the local research community, making the track more relevant to Brazilian and Portuguese-speaking researchers, but also be aligned with broader movements in AI research toward multilingual and multicultural approaches.
+The goal of this track is to bring together multimodal researchers from various fields to analyse joint, impactful research questions. For this purpose, we have introduced a collection of *news and social media data with both image and text* related to impactful world events. We have further extended the dataset for MUWS 2026 regarding two main aspects: (1) adding articles from recent events in 2025 and 2026 (e.g., protests against ICE, US tariffs, Iranian protests), and (2) including Portuguese resources (e.g., from Brazil, Portugal, etc.) to not only promote engagement with the local research community, making the track more relevant to Brazilian and Portuguese-speaking researchers, but also be aligned with broader movements in AI research toward multilingual and multicultural approaches.
 
 Consequently, the dataset covers content published in different regions of the world, enabling various tasks, e.g., analysing how the same event is portrayed in countries with different cultural, economic, and regional background. To foster research, we will provide research questions including, but not limited to:
  
@@ -42,7 +42,7 @@ The goal for participants is to develop novel research ideas based on the datase
 
 #### Dataset 1: Tweets posted by news companies around the world about Ukraine-Russia Conflict.
 
-The dataset includes 1,524,826 tweets for 60 languages. 306,295 tweets include images and thus the `image_tags` is be populated with the classified concepts, and it is an empty list in case the tweet does not include an image.
+The dataset includes 1,524,826 tweets for 60 languages. 306,295 tweets include images and thus the `image_tags` is populated with the classified concepts, and it is an empty list in case the tweet does not include an image.
 
 Each entry in the dataset is a single JSON line and has the following entries:
 
@@ -128,7 +128,7 @@ Please fill out this form with the required details (fullname, email etc.) and w
 
 ## Submission Page
 
-- Submission Page: [via Open Review](https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/MUWS
+- Submission Page: [via Open Review](https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/MUWS)
 
 ## Contact
 

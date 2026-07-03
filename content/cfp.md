@@ -66,7 +66,9 @@ Plus the typical entries that exist in a tweet: full body text, media URLs etc.
 
 #### Dataset 2:  News bias categories `left`, `right`, `center` for main stream events
 
-The dataset includes 410 lines where each line refers to a specific event. For each event, we then extracted the bias categories `left`, `right`, `center` and the corresponding news articles (their links). The articles are published between January and May 2025.
+The dataset includes info where each line refers to a specific event. For each event, we then extracted the bias categories `left`, `right`, `center` and the corresponding news articles (their links). The articles are published between January 2025 - May 2026.
+
+We also provide the individual article text and images from certain providers (AP News, BBC, CNN, Fox Business, Fox News, NBC News, Newsweek, New York Post, The New York Times, Politico, Reuters, The Guardian, The Hill, Washington Examiner, The Washington Post) that can be made available to work on. We have total 1919 stories and there are three articles for each story (one for each stance).
 
 
 Each entry in the dataset is a single JSON line and has the following entries:

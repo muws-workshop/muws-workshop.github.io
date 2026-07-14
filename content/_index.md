@@ -6,7 +6,7 @@ The 5th International Workshop on Multimodal Human Understanding for the Web and
 
 ## Important Dates (Anywhere on Earth)
 
-- Submission deadline: July 16th, 2026
+- Submission deadline: ~~July 16th, 2026~~  July 20th, 2026
 - Paper notification: August 6th, 2026
 - Camera ready: August 20th, 2026
 - Author registration: August 20th, 2026

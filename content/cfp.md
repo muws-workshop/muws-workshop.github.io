@@ -122,7 +122,7 @@ Please fill out this form with the required details (fullname, email etc.) and w
 
 ## Important Dates (Anywhere on Earth)
 
-- Submission deadline: July 16th, 2026
+- Submission deadline: ~~July 16th, 2026~~  July 20th, 2026
 - Paper notification: August 6th, 2026
 - Camera ready: August 20th, 2026
 - Author registration: August 20th, 2026

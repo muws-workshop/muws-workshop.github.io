@@ -1,5 +1,5 @@
 ---
-title: "MUWS 2025 - The 5th International Workshop on Multimodal Human Understanding for the Web and Social Media"
+title: "MUWS 2026 - The 5th International Workshop on Multimodal Human Understanding for the Web and Social Media"
 ---
 
 The 5th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with [ACM Multimedia (ACM MM 2026)](https://2026.acmmm.org/).
@@ -7,8 +7,11 @@ The 5th International Workshop on Multimodal Human Understanding for the Web and
 ## Program
 
 **Date**: November 10, 2026
+
 **Location**: Rio de Janeiro, Brazil
+
 **Timezone**: Brasilia Standard Time
+
 **Local time**: **<label id="local-time"></label>**
 
 <script>
@@ -60,11 +63,13 @@ setInterval(updateTime, 1000);
 **Abstract**: TBA
 
 <div style="display: flex; gap: 20px; align-items: start;">
-  <img src="https://www.tib.eu/fileadmin/_processed_/9/3/csm_gullal-cheema_0550a7e40c.jpg" alt="Gullal Cheema" style="width: 200px; flex-shrink: 0;">
+  <img src="organization/cheema.jpg" alt="Gullal Cheema" style="width: 200px; flex-shrink: 0;">
   <div>
     <strong>Gullal S. Cheema</strong> is a doctoral researcher in the Visual Analytics Group at TIB -- Leibniz Information Centre for Science and Technology in Hannover, Germany. As a former organizing committee member for the first three editions of MUWS, his expertise is deeply aligned with the workshop. His research interests, including computer vision, multimodal learning, cross-modal relations and computational discourse analysis, are directly related to the core goals of MUWS. 
   </div>
 </div>
+
+**Paper Session II**
 
 - 14:10 – 14:30: _A Multimedia Perspective on the Study of Cognitive Biases in Large Language Models_ by **Schedl et al.**
 - 14:30 – 14:50: _FashionTwin: A Holistic Benchmark for the Perception of AI-Generated Images in Fashion_ by **Antonela Tommasel & Markus Schedl**

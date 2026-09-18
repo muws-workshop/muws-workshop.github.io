@@ -1,5 +1,5 @@
 ---
-title: "MUWS 2025 - The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media"
+title: "MUWS 2026 - The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media"
 ---
 
 The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS), co-located with [ACM Multimedia (ACM MM 2025)](https://acmmm2025.org/).
@@ -8,12 +8,9 @@ The 4th International Workshop on Multimodal Human Understanding for the Web and
 
 **Date**: October 28, 2025 in Dublin, Ireland
 
-**Timezone**:  Irish Standard Time 
+**Timezone**: Irish Standard Time
 
-**Current time**:  **<label id="dublin-time"></label>**
-
-
-
+**Current time**: **<label id="dublin-time"></label>**
 
 <script>
 
@@ -77,8 +74,7 @@ setInterval(updateTime, 1000);
 
 - 09:00 – 9:30 - Chairs' Welcome
 
-- 09:30 – 10:30 - Keynote Talk by *Beate Schirrmacher* "Factuality, Storytelling and the Quest for Authenticity in Journalism"
-
+- 09:30 – 10:30 - Keynote Talk by _Beate Schirrmacher_ "Factuality, Storytelling and the Quest for Authenticity in Journalism"
 
 **Abstract**: In discussions of mis- and disinformation, facts are often pitted against narratives. However, even reliable and relevant information relies on narration. For instance, journalism does not simply report the facts; it constructs multimodal, transmedial, and serial narratives to explain and engage audiences regarding recent events. How does the increased focus on emotionally charged storytelling impact on the the facts and information conveyed? This presentation examines the interplay between factual narration and storytelling in journalism, exploring how facts and stories inform one another. Drawing on intermedial theory, this kind of analysis explores truthfulness in communication an interplay of perceived traces of events and communicational coherence (Elleström 2018). The analysis reveals how a set of shared basic features shapes journalistic news narration, but it also matters how these features are assembled, as the specific use of narrative and rhetorical patterns can either support or undermine factuality. For instance, in the fake features of the former German reporter Claas Relotius, narrative coherence and claims of authenticity replace specificity. Furthermore, examples of audiovisual journalism highlight how the increased focus on letting images tell the stories and claims to authenticity transform journalistic narration. Rather than opposing facts and fiction, this approach offers a more nuanced understanding of the narrative challenges of news in a rapidly changing and diverse media landscape. So, how does the increased focus on emotionally charged storytelling impact the facts and information conveyed?
 
@@ -89,22 +85,19 @@ setInterval(updateTime, 1000);
   </div>
 </div>
 
-
-
 <p></p>
 
 - 10:30 – 11:00 - Coffee Break
 
 **Session 1: Multimodal Understanding Through Impactful World Events**
 
-- 11:00 – 11:20 - ["Analyzing Emotional Discourse in Multilingual Social Media: A Case Study of the Russo-Ukrainian Conflict"](https://dl.acm.org/doi/10.1145/3728481.3762167) by *Ahmed Taiye Mohammed* et al.
+- 11:00 – 11:20 - ["Analyzing Emotional Discourse in Multilingual Social Media: A Case Study of the Russo-Ukrainian Conflict"](https://dl.acm.org/doi/10.1145/3728481.3762167) by _Ahmed Taiye Mohammed_ et al.
 
-- 11:20 – 11:35 - ["Multilingual Evaluation of Image-Text Retrieval in Vision-Language Models: A Metric-Based Perspective"](https://dl.acm.org/doi/10.1145/3728481.3762166) by *Bodhisatta Maiti*
+- 11:20 – 11:35 - ["Multilingual Evaluation of Image-Text Retrieval in Vision-Language Models: A Metric-Based Perspective"](https://dl.acm.org/doi/10.1145/3728481.3762166) by _Bodhisatta Maiti_
 
-- 11:35 – 12:30 - Keynote Talk by *Ralph Ewerth* "The Challenge of Multimodality in Analyzing Social Media News and Videos"
+- 11:35 – 12:30 - Keynote Talk by _Ralph Ewerth_ "The Challenge of Multimodality in Analyzing Social Media News and Videos"
 
 **Abstract**: Harmful content on the Web is frequently conveyed in a multimodal manner, i.e., by combining different “forms of expression” (modalities). This yields a major challenge for computational analysis methods, as the modalities can refer to each other and modify the overall meaning of the multimodal information, sometimes even changing the meaning completely (also called meaning multiplication in the literature). However, the complex interplay of information from different modalities is typically not explicitly modelled in state-of-the-art approaches for multimodal information analysis. In this talk, we present our approach to overcome this drawback by introducing a computational model for the complex interplay of modalities (here text and image) and several approaches for multimodal news analysis. Finally, we outline challenges in the quite different domain of educational videos, in particular with regard to video-based learning.
-
 
 <div style="display: flex; gap: 20px; align-items: start;">
   <img src="https://www.tib.eu/fileadmin/Daten/bilder/forschung-entwicklung/ewerth-760x570.jpg" alt="Ralph Ewerth" style="width: 200px; flex-shrink: 0;">
@@ -113,24 +106,21 @@ setInterval(updateTime, 1000);
   </div>
 </div>
 
-
 <p></p>
 
 - 12:30 - 13:30 - Lunch break
 
-
 **Session 2: Human-Centred Multimodal Understanding**
 
-- 13:30 – 13:50 - ["Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features"](https://dl.acm.org/doi/10.1145/3728481.3762163) by *Yui Tanaka* et al.
+- 13:30 – 13:50 - ["Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features"](https://dl.acm.org/doi/10.1145/3728481.3762163) by _Yui Tanaka_ et al.
 
-- 13:50 – 14:10 - ["Revealing Label Noise in Multimodal Hateful Video Classification"](https://dl.acm.org/doi/10.1145/3728481.3762164) by *Shuonan Yang* et al.
+- 13:50 – 14:10 - ["Revealing Label Noise in Multimodal Hateful Video Classification"](https://dl.acm.org/doi/10.1145/3728481.3762164) by _Shuonan Yang_ et al.
 
-- 14:10 – 14:25 - ["Video Analysis of Confusion and Understanding in Dyadic Explanations"](https://dl.acm.org/doi/10.1145/3728481.3762168) by *Jonas Paletschek* et al.
+- 14:10 – 14:25 - ["Video Analysis of Confusion and Understanding in Dyadic Explanations"](https://dl.acm.org/doi/10.1145/3728481.3762168) by _Jonas Paletschek_ et al.
 
-- 14:25 – 14:45 - ["Landmark Guided Visual Feature Extractor for Visual Speech Recognition with Limited Resources"](https://dl.acm.org/doi/10.1145/3728481.3762165) by *Lei Yang* et al.
+- 14:25 – 14:45 - ["Landmark Guided Visual Feature Extractor for Visual Speech Recognition with Limited Resources"](https://dl.acm.org/doi/10.1145/3728481.3762165) by _Lei Yang_ et al.
 
 - 14:45 - Closing ceremony
-
 
 ## Organizing Committee
 

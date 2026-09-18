@@ -1,0 +1,10 @@
+# Hugo/Go templates - Prettier's HTML parser doesn't understand {{ }} syntax
+# and can corrupt it. Format these by hand.
+layouts/
+themes/
+
+# TOML isn't supported by Prettier; handled by the Even Better TOML extension.
+*.toml
+
+# Build output
+public/

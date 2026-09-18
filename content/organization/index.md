@@ -8,7 +8,7 @@ title: "Organization"
 
   <div class="col">
     <div class="card">
-      <img src="hakimov.jpg" class="card-img-top" alt="...">
+      <img src="hakimov.webp" class="card-img-top rounded-circle" alt="...">
       <div class="card-body">
         <h5 class="card-title">Sherzod Hakimov</h5>
         <p class="card-text">University of Potsdam, Germany<br><a href="https://sherzod-hakimov.github.io">Website</a></p>
@@ -18,7 +18,7 @@ title: "Organization"
 
   <div class="col">
     <div class="card">
-      <img src="mueller-budack.jpg" class="card-img-top" alt="...">
+      <img src="mueller-budack.webp" class="card-img-top rounded-circle" alt="...">
       <div class="card-body">
         <h5 class="card-title">Eric Müller-Budack</h5>
         <p class="card-text">TIB – Leibniz Information Centre for Science and Technology, Hannover, Germany<br><a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics/staff/eric-mueller-budack">Website</a></p>
@@ -28,7 +28,7 @@ title: "Organization"
 
   <!-- <div class="col">
     <div class="card">
-      <img src="semedo.jpg" class="card-img-top" alt="...">
+      <img src="semedo.webp" class="card-img-top rounded-circle" alt="...">
       <div class="card-body">
         <h5 class="card-title">David Semedo</h5>
         <p class="card-text">NOVA University of Lisbon, Portugal<br><a href="https://muws-workshop.github.io/organization/">Website</a></p>
@@ -38,7 +38,7 @@ title: "Organization"
 
   <div class="col">
     <div class="card">
-      <img src="kastner.jpg" class="card-img-top" alt="...">
+      <img src="kastner.webp" class="card-img-top rounded-circle" alt="...">
       <div class="card-body">
         <h5 class="card-title">Marc A. Kastner</h5>
         <p class="card-text">Hiroshima City University, Japan<br><a href="https://www.marc-kastner.com">Website</a></p>
@@ -48,7 +48,7 @@ title: "Organization"
 
   <div class="col">
     <div class="card">
-      <img src="komamizu.jpg" class="card-img-top" alt="...">
+      <img src="komamizu.webp" class="card-img-top rounded-circle" alt="...">
       <div class="card-body">
         <h5 class="card-title">Takahiro Komamizu</h5>
         <p class="card-text">Nagoya University, Japan<br><a href="https://taka-coma.pro/">Website</a></p>
@@ -58,7 +58,7 @@ title: "Organization"
 
   <div class="col">
     <div class="card">
-      <img src="yang.jpg" class="card-img-top" alt="...">
+      <img src="yang.webp" class="card-img-top rounded-circle" alt="...">
       <div class="card-body">
         <h5 class="card-title">Jing Yang</h5>
         <p class="card-text">TU Berlin, Germany<br><a href="https://www.tu.berlin/en/qu/ueber-uns/team-personen/senior-researchers/dr-jing-yang">Website</a></p>
@@ -68,7 +68,7 @@ title: "Organization"
 
   <div class="col">
     <div class="card">
-      <img src="https://www.tib.eu/fileadmin/Daten/bilder/forschung-entwicklung/springstein-760x570.jpg" class="card-img-top" alt="...">
+      <img src="https://www.tib.eu/fileadmin/Daten/bilder/forschung-entwicklung/springstein-760x570.webp" class="card-img-top rounded-circle" alt="...">
       <div class="card-body">
         <h5 class="card-title">Matthias Springstein</h5>
         <p class="card-text">TIB – Leibniz Information Centre for Science and Technology, Hannover, Germany<br><a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics/staff/matthias-springstein">Website</a></p>

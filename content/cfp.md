@@ -120,7 +120,7 @@ Please fill out this form with the required details (fullname, email etc.) and w
 - Paper notification: August 6th, 2026
 - Camera ready: August 20th, 2026
 - Author registration: August 20th, 2026
-- Workshop date: TBA
+- Workshop date: November 10th, 2026
 
 ## Submission Page
 

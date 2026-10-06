@@ -80,10 +80,10 @@ setInterval(updateTime, 1000);
 <div class="row py-3 border-bottom">
   <div class="col-12 col-sm-3 col-md-2 fw-bold text-nowrap">13:30 – 14:10</div>
   <div class="col">
-    <strong>Invited Talk</strong>: <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics/staff/gullal-cheema">Gullal S. Cheema</a>
+    <strong>Invited Talk</strong>: <a href="https://www.tu.berlin/qu/ueber-uns/team-personen/senior-researchers/dr-veronika-solopova">Veronika Solopova</a>
     <div style="display: flex; gap: 16px; align-items: start;" class="mt-2">
-      <img src="/organization/cheema.jpg" alt="Gullal Cheema" style="width: 120px; flex-shrink: 0;">
-      <div><strong>Gullal S. Cheema</strong> is a doctoral researcher in the Visual Analytics Group at TIB &ndash; Leibniz Information Centre for Science and Technology in Hannover, Germany. As a former organizing committee member for the first three editions of MUWS, his expertise is deeply aligned with the workshop. His research interests, including computer vision, multimodal learning, cross-modal relations and computational discourse analysis, are directly related to the core goals of MUWS.</div>
+      <img src="https://www.static.tu.berlin/fileadmin/www/_processed_/5/d/csm_Veronika_Solopova_2745f5f992.jpg" alt="Veronika Solopova" style="width: 120px; flex-shrink: 0;">
+      <!-- <div><strong>Gullal S. Cheema</strong> is a doctoral researcher in the Visual Analytics Group at TIB &ndash; Leibniz Information Centre for Science and Technology in Hannover, Germany. As a former organizing committee member for the first three editions of MUWS, his expertise is deeply aligned with the workshop. His research interests, including computer vision, multimodal learning, cross-modal relations and computational discourse analysis, are directly related to the core goals of MUWS.</div> -->
     </div>
     <!-- <p class="mt-2"><strong>Abstract</strong>: TBA</p> -->
   </div>

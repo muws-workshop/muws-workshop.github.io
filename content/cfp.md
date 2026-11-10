@@ -63,11 +63,9 @@ Plus the typical entries that exist in a tweet: full body text, media URLs etc.
 
 #### Dataset 2: News bias categories `left`, `right`, `center` for main stream events
 
-The dataset includes info where each line refers to a specific event. For each event, we then extracted the bias categories `left`, `right`, `center` and the corresponding news articles (their links). The articles are published between January 2025 - May 2026.
+The dataset covers 1,918 stories, each with three articles (one per stance), published between January 2025 and May 2026 on [AllSides](https://allsides.com). Each line in the dataset refers to a specific event. For each event, we extracted the bias categories `left`, `center`, and `right` along with the links to the corresponding news articles.
 
-We also provide the individual article text and images from certain providers (AP News, BBC, CNN, Fox Business, Fox News, NBC News, Newsweek, New York Post, The New York Times, Politico, Reuters, The Guardian, The Hill, Washington Examiner, The Washington Post) that can be made available to work on. We have total 1919 stories and there are three articles for each story (one for each stance).
-
-Each entry in the dataset is a single JSON line and has the following entries:
+Each entry is a single JSON line with the following fields:
 
 ```
 {
@@ -108,11 +106,20 @@ Each entry in the dataset is a single JSON line and has the following entries:
 }
 ```
 
-For each `headline` there is a left, right or center-oriented news article. We also have additional list of articles that also have the same bias categories under `more_left`, `more_right`, `more_center`.
+**NEW in 2026:** We also provide the full texts and images for 2,897 articles, including 280 events with full texts and images for all three stances. These were crawled from certain news providers (AP News, BBC, CNN, Fox Business, Fox News, NBC News, Newsweek, New York Post, The New York Times, Politico, Reuters, The Guardian, The Hill, Washington Examiner, The Washington Post).
+
+To request access to the dataset, please follow the instructions below. We also provide an exploration tool on [GitHub](https://github.com/muws-workshop/muws-allsides-dataset) to get an overview of the dataset.
+
+##### Acknowledgement
+
+<div style="display: flex; gap: 16px; align-items: start;" class="mt-2 mb-3">
+  <img src="/organization/abdullah.png" alt="Ahmad Abdullah" style="width: 100px; flex-shrink: 0;" class="rounded-circle">
+  <div><strong>Ahmad Abdullah</strong> contributed as a student assistant at TIB – Leibniz Information Centre for Science and Technology to extending the Track 2 dataset and building the exploration tool for MUWS 2026.</div>
+</div>
 
 #### Participation and accessing the datasets in Track 2
 
-Please fill out this form with the required details (fullname, email etc.) and we will send the password protected link to your indicated email address.: [https://forms.gle/tLJEZfJsnYhW5dYg8](https://forms.gle/tLJEZfJsnYhW5dYg8)
+Please fill out this form with the required details (fullname, email etc.) and we will send the password protected link to your indicated email address: [https://forms.gle/tLJEZfJsnYhW5dYg8](https://forms.gle/tLJEZfJsnYhW5dYg8)
 
 ## Important Dates (Anywhere on Earth)
 

@@ -34,6 +34,8 @@ updateTime();
 setInterval(updateTime, 1000);
 </script>
 
+**Proceedings**: [https://doi.org/10.1145/3767308.3842129](https://doi.org/10.1145/3767308.3842129)
+
 **Room**: Windsor Conventions & Expo Center (Room: Oceania VIII),
 
 <div class="container-fluid px-0">
